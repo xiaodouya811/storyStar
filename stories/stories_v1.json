@@ -2,7 +2,7 @@
   "stories": [
     {
       "story_id": "story_001",
-      "title": { "zh": "静夜思", "en": "Quiet Night Thoughts" },
+      "title": { "zh": "静夜思1", "en": "Quiet Night Thoughts" },
       "author": { "zh": "李白", "en": "Li Bai" },
       "category": ["古诗", "儿童"],
       "language": "zh",
