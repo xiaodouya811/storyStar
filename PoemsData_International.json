@@ -1,0 +1,1815 @@
+[
+  {
+    "id": "grimm_001",
+    "title": "小红帽",
+    "author": "格林兄弟",
+    "category": "格林童话",
+    "level": 1,
+    "content": "从前有个可爱的小姑娘，人人见了都喜欢，但最喜欢她的是她的奶奶。有一次，奶奶送给她一顶红色天鹅绒的小帽子，戴在她的头上正好合适，从此她就只愿意戴这顶帽子，所以大家就叫她小红帽。\n\n一天，妈妈对小红帽说：'来，小红帽，这里有一块蛋糕和一瓶葡萄酒，快给奶奶送去，奶奶生病了，身子很虚弱，吃了这些就会好一些的。趁着现在天还没有热，赶紧动身吧。路上要小心，不要跑，也不要离开大路，否则你会摔跤的，那样奶奶就什么也吃不上了。'",
+    "storyType": "国外故事",
+    "origin": "格林童话",
+    "annotation": "这是一个关于善良与危险、听话与冒险的经典童话故事。",
+    "analysis": "小红帽的故事教导孩子们要听从父母的话，不要轻信陌生人，同时也展现了善良战胜邪恶的主题。",
+    "aiExplanation": "小朋友们，小红帽是一个很乖很善良的小女孩。她很爱她的奶奶，愿意给生病的奶奶送好吃的。但是妈妈告诉她路上要小心，不能离开大路。你们觉得为什么妈妈要这样叮嘱她呢？",
+    "comprehensionQuestions": [
+      {
+        "id": "cq_grimm001_1",
+        "question": "小红帽为什么叫小红帽？",
+        "type": "voice",
+        "expectedKeywords": [
+          "红帽子",
+          "奶奶送的",
+          "喜欢戴"
+        ],
+        "hint": "想想她头上戴的是什么颜色的帽子",
+        "order": 1
+      },
+      {
+        "id": "cq_grimm001_2",
+        "question": "请画出小红帽去奶奶家的路上可能遇到的危险",
+        "type": "drawing",
+        "hint": "森林里可能会有什么危险的动物呢？",
+        "order": 2
+      },
+      {
+        "id": "cq_grimm001_3",
+        "question": "听到妈妈的叮嘱，你的心情是怎样的？",
+        "type": "emoji",
+        "hint": "选择一个表情来表达你的感受",
+        "order": 3
+      }
+    ],
+    "characters": [
+      {
+        "id": "char_redhood",
+        "name": "小红帽",
+        "description": "善良可爱的小女孩，总是戴着红色的帽子",
+        "personality": "善良、听话、有点天真",
+        "voiceType": "child",
+        "dialogueTemplates": [
+          "我要去看奶奶，给她送好吃的！",
+          "妈妈说路上要小心，不能离开大路。",
+          "奶奶，我来看您了！"
+        ],
+        "greeting": "你好！我是小红帽，我正要去看我的奶奶呢！"
+      },
+      {
+        "id": "char_grandmother",
+        "name": "奶奶",
+        "description": "慈祥的老奶奶，很疼爱小红帽",
+        "personality": "慈祥、温柔、关爱孙女",
+        "voiceType": "elderly",
+        "dialogueTemplates": [
+          "我的小红帽，奶奶很想你。",
+          "路上小心，要听妈妈的话。",
+          "奶奶给你做了好吃的。"
+        ],
+        "greeting": "我的小宝贝，奶奶好想你啊！"
+      }
+    ],
+    "wordCards": [
+      {
+        "id": "wc_grimm001_1",
+        "word": "天鹅绒",
+        "pinyin": "tiān é róng",
+        "meaningCN": "一种柔软光滑的布料",
+        "meaningEN": "velvet"
+      },
+      {
+        "id": "wc_grimm001_2",
+        "word": "虚弱",
+        "pinyin": "xū ruò",
+        "meaningCN": "身体不强壮，没有力气",
+        "meaningEN": "weak"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q_grimm001_1",
+        "question": "小红帽要给奶奶送什么？",
+        "options": [
+          "蛋糕和牛奶",
+          "蛋糕和葡萄酒",
+          "面包和水",
+          "苹果和蛋糕"
+        ],
+        "correctAnswer": 1,
+        "explanation": "妈妈让小红帽给奶奶送蛋糕和葡萄酒。"
+      }
+    ],
+    "isFavorite": false,
+    "regions": [
+      "international"
+    ],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "grimm_002",
+    "title": "灰姑娘",
+    "author": "格林兄弟",
+    "category": "格林童话",
+    "level": 3,
+    "content": "从前，有一个富人的妻子得了重病，在临终前，她把自己的独生女儿叫到身边说：'乖女儿，妈妈要离开你了，但我会在天上守护你的。你要做个善良的好孩子，这样上天就会保佑你的。'说完她就闭上眼睛死了。\n\n小姑娘每天都到母亲的坟前去哭泣。不久，她的父亲又娶了一个妻子。这个女人带着她以前生的两个女儿一起来安家了。她们外表很美丽，但是内心却非常丑陋邪恶。她们对小姑娘很不好，让她做所有的家务活。",
+    "storyType": "国外故事",
+    "origin": "格林童话",
+    "annotation": "这是一个关于善良、坚持和梦想成真的经典童话故事。",
+    "analysis": "灰姑娘的故事告诉我们，善良的人最终会得到幸福，而邪恶的人会受到惩罚。",
+    "aiExplanation": "小朋友们，灰姑娘是一个很善良的女孩，虽然继母和姐姐们对她不好，但她依然保持善良的心。你们觉得善良的人应该得到什么样的回报呢？",
+    "comprehensionQuestions": [
+      {
+        "id": "cq_grimm002_1",
+        "question": "灰姑娘的妈妈临终前对她说了什么？",
+        "type": "voice",
+        "expectedKeywords": [
+          "善良",
+          "好孩子",
+          "保佑",
+          "守护"
+        ],
+        "hint": "妈妈希望灰姑娘做什么样的孩子？",
+        "order": 1
+      },
+      {
+        "id": "cq_grimm002_2",
+        "question": "请画出灰姑娘做家务的场景",
+        "type": "drawing",
+        "hint": "想想灰姑娘可能要做哪些家务活",
+        "order": 2
+      },
+      {
+        "id": "cq_grimm002_3",
+        "question": "看到灰姑娘被欺负，你的心情如何？",
+        "type": "emoji",
+        "hint": "选择一个表情表达你的感受",
+        "order": 3
+      }
+    ],
+    "characters": [
+      {
+        "id": "char_cinderella",
+        "name": "灰姑娘",
+        "description": "善良美丽的女孩，虽然受到不公平对待但依然保持善良",
+        "personality": "善良、坚强、勤劳、有梦想",
+        "voiceType": "female",
+        "dialogueTemplates": [
+          "我会记住妈妈的话，做个善良的好孩子。",
+          "虽然生活很辛苦，但我相信会有美好的一天。",
+          "我要努力工作，不让别人失望。"
+        ],
+        "greeting": "你好，我是灰姑娘。虽然生活不容易，但我依然相信美好！"
+      }
+    ],
+    "wordCards": [
+      {
+        "id": "wc_grimm002_1",
+        "word": "临终",
+        "pinyin": "lín zhōng",
+        "meaningCN": "快要死的时候",
+        "meaningEN": "dying"
+      },
+      {
+        "id": "wc_grimm002_2",
+        "word": "邪恶",
+        "pinyin": "xié è",
+        "meaningCN": "很坏，做坏事",
+        "meaningEN": "evil"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q_grimm002_1",
+        "question": "灰姑娘的继母带来了几个女儿？",
+        "options": [
+          "一个",
+          "两个",
+          "三个",
+          "四个"
+        ],
+        "correctAnswer": 1,
+        "explanation": "继母带着她以前生的两个女儿一起来了。"
+      }
+    ],
+    "isFavorite": false,
+    "regions": [
+      "international"
+    ],
+    "ageCategory": "elementary"
+  },
+
+   {
+    "id": "aesop_001",
+    "title": "狐狸与葡萄",
+    "author": "伊索",
+    "category": "伊索寓言",
+    "level": 4,
+    "content": "一只饥饿的狐狸看到一串美味的葡萄挂在藤上。它跳啊蹦啊，试图够到葡萄，但每次都失败。\n最后，它气馁地走开，自言自语说：'这些葡萄可能是酸的吧。'",
+    "englishTranslation": "A hungry fox saw a bunch of delicious grapes hanging from a vine. It jumped and leaped trying to reach them, but failed each time. Frustrated, it walked away muttering that the grapes were probably sour.",
+    "storyType": "国外故事",
+    "origin": "Aesop's Fables",
+    "annotation": "关于自尊心和合理看待失败的经典寓言故事。",
+    "analysis": "狐狸因为够不到葡萄而贬低它，体现心理学上的酸葡萄心理。",
+    "aiExplanation": "小朋友们，狐狸够不到葡萄就说它是酸的。你觉得这样说是因为不想承认自己失败吗？",
+    "comprehensionQuestions": [
+      {"id": "cq_aesop001_1", "question": "狐狸为什么说葡萄是酸的？", "type": "voice", "expectedKeywords": ["够不到","酸葡萄","不想承认"], "hint": "想想狐狸够不到葡萄时的心情", "order": 1},
+      {"id": "cq_aesop001_2", "question": "你能画出狐狸尝试摘葡萄的场景吗？", "type": "drawing", "hint": "画狐狸跳起来够葡萄的样子", "order": 2},
+      {"id": "cq_aesop001_3", "question": "如果你是狐狸，你会怎么做？", "type": "emoji", "hint": "选择一个表情表示你的心情", "order": 3}
+    ],
+    "characters": [
+      {"id": "char_fox", "name": "狐狸", "description": "聪明但自尊心强的狐狸", "personality": "聪明、急躁", "voiceType": "child", "dialogueTemplates": ["这些葡萄太高了，我够不到！","算了，这葡萄一定很酸！"], "greeting": "你好，我是狐狸，我饿了，想吃葡萄！"}
+    ],
+    "wordCards": [
+      {"id": "wc_aesop001_1", "word": "葡萄", "pinyin": "pú táo", "meaningCN": "一种水果", "meaningEN": "grape"},
+      {"id": "wc_aesop001_2", "word": "酸", "pinyin": "suān", "meaningCN": "味道酸的", "meaningEN": "sour"}
+    ],
+    "quiz": [
+      {"id": "q_aesop001_1", "question": "狐狸最后为什么离开？", "options": ["因为葡萄太高","因为葡萄太酸","因为累了","因为遇到猎人"], "correctAnswer": 0, "explanation": "狐狸够不到葡萄，所以离开。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "aesop_002",
+    "title": "乌龟与兔子",
+    "author": "伊索",
+    "category": "伊索寓言",
+    "level": 7,
+    "content": "一只快速的兔子嘲笑一只缓慢的乌龟。乌龟不服气，向兔子挑战比赛。兔子自信满满，跑在前面，中途睡觉了。而乌龟坚持不懈，最终赢得了比赛。",
+    "englishTranslation": "A speedy hare mocked a slow tortoise. The tortoise challenged him to a race. Confident, the hare raced ahead but took a nap mid-race. The tortoise kept moving steadily and won.",
+    "storyType": "国外故事",
+    "origin": "Aesop's Fables",
+    "annotation": "关于坚持与耐心的寓言故事。",
+    "analysis": "乌龟坚持不懈，最终战胜了自负的兔子，告诉我们稳扎稳打比自满自大更容易成功。",
+    "aiExplanation": "兔子很快，但因为骄傲睡觉了，而乌龟慢慢走却赢了。你觉得为什么坚持比一时的速度更重要呢？",
+    "comprehensionQuestions": [
+      {"id": "cq_aesop002_1", "question": "乌龟为什么能赢得比赛？", "type": "voice", "expectedKeywords": ["坚持","不放弃","稳扎稳打"], "hint": "想想乌龟是怎么跑完全程的", "order": 1},
+      {"id": "cq_aesop002_2", "question": "请画出兔子睡觉的场景", "type": "drawing", "hint": "兔子在比赛中打瞌睡", "order": 2},
+      {"id": "cq_aesop002_3", "question": "如果你参加比赛，你会像兔子还是乌龟？", "type": "emoji", "hint": "选择一个表情表示你的心情", "order": 3}
+    ],
+    "characters": [
+      {"id": "char_tortoise", "name": "乌龟", "description": "慢而坚持的乌龟", "personality": "耐心、稳重", "voiceType": "child", "dialogueTemplates": ["虽然慢，但我不会放弃。","一步一步，终会到达终点！"], "greeting": "我是乌龟，我要慢慢跑完全程！"},
+      {"id": "char_hare", "name": "兔子", "description": "快速但自负的兔子", "personality": "自大、骄傲", "voiceType": "child", "dialogueTemplates": ["我跑得太快了，不用担心。","我先睡一会儿，肯定能赢！"], "greeting": "我是兔子，我跑得最快！"}
+    ],
+    "wordCards": [
+      {"id": "wc_aesop002_1", "word": "乌龟", "pinyin": "wū guī", "meaningCN": "一种爬行动物，走得慢", "meaningEN": "tortoise"},
+      {"id": "wc_aesop002_2", "word": "兔子", "pinyin": "tù zi", "meaningCN": "快速的动物", "meaningEN": "hare"}
+    ],
+    "quiz": [
+      {"id": "q_aesop002_1", "question": "兔子为什么在比赛中落后？", "options": ["因为迷路了","因为睡觉了","因为累了","因为吃东西"], "correctAnswer": 1, "explanation": "兔子自负，认为自己很快，就中途睡觉了。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  }
+  ,
+  {
+    "id": "aesop_003",
+    "title": "狮子与老鼠",
+    "author": "伊索",
+    "category": "伊索寓言",
+    "level": 9,
+    "content": "一只狮子抓住了一只小老鼠，小老鼠哀求狮子放它一马。狮子觉得好玩，就放了它。后来，狮子被猎人的网困住了，小老鼠咬断绳索，救了狮子。",
+    "englishTranslation": "A lion caught a small mouse who begged for mercy. Amused, the lion let it go. Later, the lion was trapped in a hunter's net. The mouse gnawed through the ropes and freed him.",
+    "storyType": "国外故事",
+    "origin": "Aesop's Fables",
+    "annotation": "关于善意和互助的寓言故事。",
+    "analysis": "小老鼠帮助了曾经放它一马的狮子，体现了善良与互助的价值。",
+    "aiExplanation": "小朋友们，狮子放了小老鼠一马，后来小老鼠帮助了狮子。你觉得帮助别人会有回报吗？",
+    "comprehensionQuestions": [
+      {"id": "cq_aesop003_1", "question": "小老鼠是如何帮助狮子的？", "type": "voice", "expectedKeywords": ["咬断绳子","救狮子","互助"], "hint": "想想小老鼠用了什么方法", "order": 1},
+      {"id": "cq_aesop003_2", "question": "请画出狮子被困的场景", "type": "drawing", "hint": "狮子被网困住", "order": 2},
+      {"id": "cq_aesop003_3", "question": "如果你是狮子，你会怎么做？", "type": "emoji", "hint": "选择一个表情表示你的心情", "order": 3}
+    ],
+    "characters": [
+      {"id": "char_lion", "name": "狮子", "description": "威严的狮子，但可以宽容", "personality": "威严、宽容", "voiceType": "male", "dialogueTemplates": ["我放你一马，你要答应我什么？","谢谢你救了我！"], "greeting": "我是狮子，我在森林里很威风！"},
+      {"id": "char_mouse", "name": "老鼠", "description": "小而勇敢的老鼠", "personality": "勇敢、机智", "voiceType": "child", "dialogueTemplates": ["求你放过我！","我会帮你逃脱！"], "greeting": "我是小老鼠，我虽然小但很勇敢！"}
+    ],
+    "wordCards": [
+      {"id": "wc_aesop003_1", "word": "狮子", "pinyin": "shī zi", "meaningCN": "森林之王，大型猫科动物", "meaningEN": "lion"},
+      {"id": "wc_aesop003_2", "word": "老鼠", "pinyin": "lǎo shǔ", "meaningCN": "小型啮齿动物", "meaningEN": "mouse"}
+    ],
+    "quiz": [
+      {"id": "q_aesop003_1", "question": "狮子最初为什么放了小老鼠？", "options": ["觉得好玩","怕它咬自己","同情它","想吃它"], "correctAnswer": 2, "explanation": "狮子觉得小老鼠可怜，所以放了它。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "aesop_004",
+    "title": "乌鸦与水罐",
+    "author": "伊索",
+    "category": "伊索寓言",
+    "level": 12,
+    "content": "一只口渴的乌鸦发现一个瓶子，水在瓶底，它够不到。乌鸦想了办法，把小石子一颗颗投入瓶中，水面升高，终于喝到了水。",
+    "englishTranslation": "A thirsty crow found a pitcher with water at the bottom, out of reach. It dropped pebbles into the pitcher until the water rose, allowing it to drink.",
+    "storyType": "国外故事",
+    "origin": "Aesop's Fables",
+    "annotation": "关于智慧和解决问题的寓言故事。",
+    "analysis": "乌鸦通过聪明的方法解决了喝水的问题，体现了智慧的重要性。",
+    "aiExplanation": "小朋友们，乌鸦用石子把水抬高，聪明解决问题。你觉得遇到困难时应该怎么办？",
+    "comprehensionQuestions": [
+      {"id": "cq_aesop004_1", "question": "乌鸦是如何喝到水的？", "type": "voice", "expectedKeywords": ["石子","抬高水面","智慧"], "hint": "想想乌鸦用了什么方法", "order": 1},
+      {"id": "cq_aesop004_2", "question": "请画出乌鸦投石子的场景", "type": "drawing", "hint": "乌鸦把石子投进瓶子", "order": 2},
+      {"id": "cq_aesop004_3", "question": "如果你是乌鸦，你会怎么做？", "type": "emoji", "hint": "选择一个表情表示你的心情", "order": 3}
+    ],
+    "characters": [
+      {"id": "char_crow", "name": "乌鸦", "description": "聪明且机智的乌鸦", "personality": "聪明、机智", "voiceType": "child", "dialogueTemplates": ["我要喝水，但水太低了。","放入石子，水升高了！"], "greeting": "我是乌鸦，我要想办法喝水！"}
+    ],
+    "wordCards": [
+      {"id": "wc_aesop004_1", "word": "乌鸦", "pinyin": "wū yā", "meaningCN": "黑色鸟类，聪明", "meaningEN": "crow"},
+      {"id": "wc_aesop004_2", "word": "水罐", "pinyin": "shuǐ guàn", "meaningCN": "装水的容器", "meaningEN": "pitcher"}
+    ],
+    "quiz": [
+      {"id": "q_aesop004_1", "question": "乌鸦为什么能喝到水？", "options": ["喝太猛","石子抬水","摇罐子","等待雨水"], "correctAnswer": 1, "explanation": "乌鸦通过投石子抬高水面喝到了水。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "aesop_005",
+    "title": "狗与影子",
+    "author": "伊索",
+    "category": "伊索寓言",
+    "level": 10,
+    "content": "一只狗叼着一块骨头，看到水中的影子，以为是另一只狗叼着更大的骨头。它扑过去想抢，结果掉了自己手中的骨头。",
+    "englishTranslation": "A dog carrying a bone saw his reflection in the water. Thinking it was another dog with a bigger bone, he snapped at it, dropping his own bone into the water.",
+    "storyType": "国外故事",
+    "origin": "Aesop's Fables",
+    "annotation": "关于贪心和满足的寓言故事。",
+    "analysis": "狗因为贪心，失去了自己已有的东西，提醒我们不要因贪心而失去已有的好处。",
+    "aiExplanation": "小朋友们，狗因为想要更多而丢了自己的骨头。你觉得贪心会带来什么问题？",
+    "comprehensionQuestions": [
+      {"id": "cq_aesop005_1", "question": "狗为什么掉了自己的骨头？", "type": "voice", "expectedKeywords": ["贪心","镜像","骨头"], "hint": "想想狗看到水里的影子", "order": 1},
+      {"id": "cq_aesop005_2", "question": "请画出狗看到影子的场景", "type": "drawing", "hint": "狗看到水里的骨头影子", "order": 2},
+      {"id": "cq_aesop005_3", "question": "如果你是狗，你会怎么做？", "type": "emoji", "hint": "选择一个表情表示你的心情", "order": 3}
+    ],
+    "characters": [
+      {"id": "char_dog", "name": "狗", "description": "贪心的狗", "personality": "贪心、轻信", "voiceType": "child", "dialogueTemplates": ["那是谁？那块骨头更大！","啊，我的骨头掉了！"], "greeting": "我是狗，我想要大骨头！"}
+    ],
+    "wordCards": [
+      {"id": "wc_aesop005_1", "word": "影子", "pinyin": "yǐng zi", "meaningCN": "物体投射的黑影", "meaningEN": "shadow"},
+      {"id": "wc_aesop005_2", "word": "骨头", "pinyin": "gǔ tóu", "meaningCN": "动物的骨骼，狗喜欢啃", "meaningEN": "bone"}
+    ],
+    "quiz": [
+      {"id": "q_aesop005_1", "question": "狗最后得到了什么？", "options": ["两块骨头","没有骨头","骨头翻倍","原来的骨头"], "correctAnswer": 1, "explanation": "狗因为贪心，扑向影子，掉了自己手中的骨头。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  }
+  ,
+  {
+    "id": "aesop_006",
+    "title": "牧羊少年与狼",
+    "author": "伊索",
+    "category": "伊索寓言",
+    "level": 4,
+    "content": "一个牧羊少年多次谎称有狼来了，村民们赶来救助，但发现是假的。后来真的有狼来袭，他呼救时，村民们以为又是谎言，没有来救他，羊群被狼吃掉了。",
+    "englishTranslation": "A shepherd boy repeatedly cried 'Wolf!' when there was no wolf. Villagers came to help but found it was a lie. Later, a wolf really came, but villagers thought it was another false alarm and didn’t come. The sheep were eaten.",
+    "storyType": "国外故事",
+    "origin": "Aesop's Fables",
+    "annotation": "关于诚实和谎言的寓言故事。",
+    "analysis": "撒谎会导致失去别人的信任，真正需要帮助时无人响应。",
+    "aiExplanation": "小朋友们，如果你经常说谎，当你真的需要帮助时，别人可能不会相信你。你觉得诚实为什么重要？",
+    "comprehensionQuestions": [
+      {"id": "cq_aesop006_1", "question": "牧羊少年多次喊狼，村民们为什么不再相信他？", "type": "voice", "expectedKeywords": ["谎言","不相信","信任"], "hint": "想想前几次喊狼的结果", "order": 1},
+      {"id": "cq_aesop006_2", "question": "请画出狼袭击羊群的场景", "type": "drawing", "hint": "狼正在攻击羊群", "order": 2},
+      {"id": "cq_aesop006_3", "question": "如果你是牧羊少年，你会怎么做？", "type": "emoji", "hint": "选择一个表情表示你的心情", "order": 3}
+    ],
+    "characters": [
+      {"id": "char_shepherd", "name": "牧羊少年", "description": "爱开玩笑的少年", "personality": "调皮、爱撒谎", "voiceType": "child", "dialogueTemplates": ["狼来了！快来救我！","哈哈，骗到你们了！"], "greeting": "我是牧羊少年，我要看守羊群！"}
+    ],
+    "wordCards": [
+      {"id": "wc_aesop006_1", "word": "牧羊", "pinyin": "mù yáng", "meaningCN": "照顾羊群", "meaningEN": "herding sheep"},
+      {"id": "wc_aesop006_2", "word": "狼", "pinyin": "láng", "meaningCN": "凶猛的动物，吃羊", "meaningEN": "wolf"}
+    ],
+    "quiz": [
+      {"id": "q_aesop006_1", "question": "牧羊少年第一次喊狼时，村民们怎么做？", "options": ["不理他","赶来救助","笑他","打他"], "correctAnswer": 1, "explanation": "村民们赶来救助，但发现是假的。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "aesop_007",
+    "title": "农夫与蛇",
+    "author": "伊索",
+    "category": "伊索寓言",
+    "level": 6,
+    "content": "一个冬天，农夫在路上发现一条冻僵的蛇，他心生怜悯，把蛇放入怀中取暖。蛇苏醒后咬了农夫一口，农夫中毒身亡。",
+    "englishTranslation": "One winter, a farmer found a frozen snake on the road. Feeling pity, he held it to warm it. When the snake revived, it bit the farmer and he died from the poison.",
+    "storyType": "国外故事",
+    "origin": "Aesop's Fables",
+    "annotation": "关于善意与本性不可改变的寓言故事。",
+    "analysis": "善意不一定得到回报，有些生物天性如此，提醒人们要理智施善。",
+    "aiExplanation": "小朋友们，农夫好心救了蛇，但蛇咬了他。你觉得有些危险的动物不能随便接触吗？",
+    "comprehensionQuestions": [
+      {"id": "cq_aesop007_1", "question": "农夫为什么救蛇？", "type": "voice", "expectedKeywords": ["怜悯","善良","取暖"], "hint": "想想农夫看到冻僵的蛇时的感受", "order": 1},
+      {"id": "cq_aesop007_2", "question": "请画出农夫抱蛇的场景", "type": "drawing", "hint": "蛇被农夫放在怀里", "order": 2},
+      {"id": "cq_aesop007_3", "question": "如果你是农夫，你会怎么做？", "type": "emoji", "hint": "选择一个表情表示你的心情", "order": 3}
+    ],
+    "characters": [
+      {"id": "char_farmer", "name": "农夫", "description": "善良却轻信的农夫", "personality": "善良、轻信", "voiceType": "male", "dialogueTemplates": ["可怜的蛇，让我抱你取暖吧！"], "greeting": "我是农夫，我看到受冻的动物会想救助它！"},
+      {"id": "char_snake", "name": "蛇", "description": "凶险且不可预测的蛇", "personality": "凶猛、本性难改", "voiceType": "child", "dialogueTemplates": ["嘶……","咬！"], "greeting": "我是蛇，我按本性行动！"}
+    ],
+    "wordCards": [
+      {"id": "wc_aesop007_1", "word": "蛇", "pinyin": "shé", "meaningCN": "爬行动物，有毒", "meaningEN": "snake"},
+      {"id": "wc_aesop007_2", "word": "农夫", "pinyin": "nóng fū", "meaningCN": "耕种土地的人", "meaningEN": "farmer"}
+    ],
+    "quiz": [
+      {"id": "q_aesop007_1", "question": "农夫最后发生了什么？", "options": ["蛇咬了他","蛇离开了","农夫逃跑了","蛇变友善了"], "correctAnswer": 0, "explanation": "蛇咬了农夫，农夫中毒身亡。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "aesop_008",
+    "title": "狐狸与鹤",
+    "author": "伊索",
+    "category": "伊索寓言",
+    "level": 7,
+    "content": "狐狸邀请鹤来家里吃饭，端出平盘汤，鹤的长嘴喝不到。鹤邀请狐狸来家里，端出长颈瓶汤，狐狸喝不到。双方明白了礼尚往来的道理。",
+    "englishTranslation": "The fox invited the crane for a meal, serving soup in a shallow dish that the crane could not drink. The crane invited the fox, serving soup in a long-necked jar that the fox could not drink. They learned about reciprocity.",
+    "storyType": "国外故事",
+    "origin": "Aesop's Fables",
+    "annotation": "关于礼尚往来和换位思考的寓言故事。",
+    "analysis": "狐狸和鹤通过互相体验对方的不便，明白了尊重和体谅的重要性。",
+    "aiExplanation": "小朋友们，如果你请别人吃饭，要考虑别人能不能方便享用。你觉得换位思考为什么重要？",
+    "comprehensionQuestions": [
+      {"id": "cq_aesop008_1", "question": "狐狸端的汤为什么鹤喝不到？", "type": "voice", "expectedKeywords": ["平盘","长嘴","喝不到"], "hint": "想想鹤的嘴巴长短", "order": 1},
+      {"id": "cq_aesop008_2", "question": "请画出狐狸和鹤用餐的场景", "type": "drawing", "hint": "狐狸和鹤各自吃饭", "order": 2},
+      {"id": "cq_aesop008_3", "question": "如果你是狐狸或鹤，你会怎么做？", "type": "emoji", "hint": "选择一个表情表示你的心情", "order": 3}
+    ],
+    "characters": [
+      {"id": "char_fox2", "name": "狐狸", "description": "狡猾的狐狸", "personality": "狡猾、机智", "voiceType": "child", "dialogueTemplates": ["来，尝尝我准备的汤！","哎呀，我喝不到啊！"], "greeting": "我是狐狸，我喜欢请朋友吃饭！"},
+      {"id": "char_crane", "name": "鹤", "description": "长嘴的鹤", "personality": "谨慎、聪明", "voiceType": "child", "dialogueTemplates": ["谢谢你的邀请，但喝不到汤！","现在轮到我请你了！"], "greeting": "我是鹤，我喜欢与朋友分享食物！"}
+    ],
+    "wordCards": [
+      {"id": "wc_aesop008_1", "word": "鹤", "pinyin": "hè", "meaningCN": "一种长嘴长腿的鸟", "meaningEN": "crane"},
+      {"id": "wc_aesop008_2", "word": "汤", "pinyin": "tāng", "meaningCN": "热的液体食物", "meaningEN": "soup"}
+    ],
+    "quiz": [
+      {"id": "q_aesop008_1", "question": "狐狸和鹤通过这个故事明白了什么？", "options": ["互相帮助","礼尚往来","贪心","竞争"], "correctAnswer": 1, "explanation": "他们学会了考虑别人的感受，礼尚往来。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "aesop_009",
+    "title": "蚂蚁与蚱蜢",
+    "author": "伊索",
+    "category": "伊索寓言",
+    "level": 9,
+    "content": "夏天，蚱蜢整天唱歌玩耍，而蚂蚁辛勤储存粮食。冬天到来，蚱蜢没有食物，向蚂蚁求助，蚂蚁告诉它要为未来努力。",
+    "englishTranslation": "In summer, the grasshopper sang and played while the ant diligently stored food. When winter came, the grasshopper had no food and asked the ant for help. The ant taught it to prepare for the future.",
+    "storyType": "国外故事",
+    "origin": "Aesop's Fables",
+    "annotation": "关于勤劳和未雨绸缪的寓言故事。",
+    "analysis": "蚂蚁勤奋储粮，蚱蜢玩乐无度，强调提前计划的重要性。",
+    "aiExplanation": "小朋友们，你觉得为什么要像蚂蚁一样为未来准备呢？",
+    "comprehensionQuestions": [
+      {"id": "cq_aesop009_1", "question": "冬天来临时，蚱蜢缺什么？", "type": "voice", "expectedKeywords": ["食物","粮食","准备不足"], "hint": "想想蚱蜢夏天做了什么", "order": 1},
+      {"id": "cq_aesop009_2", "question": "请画出蚂蚁储存粮食的场景", "type": "drawing", "hint": "蚂蚁搬运粮食", "order": 2},
+      {"id": "cq_aesop009_3", "question": "如果你是蚱蜢，你会怎么做？", "type": "emoji", "hint": "选择一个表情表示你的心情", "order": 3}
+    ],
+    "characters": [
+      {"id": "char_ant", "name": "蚂蚁", "description": "勤劳的小蚂蚁", "personality": "勤奋、有计划", "voiceType": "child", "dialogueTemplates": ["我要把粮食储存起来。","冬天来了，我们有粮食吃！"], "greeting": "我是蚂蚁，我喜欢努力工作！"},
+      {"id": "char_grasshopper", "name": "蚱蜢", "description": "爱唱歌跳舞的蚱蜢", "personality": "玩乐、随意", "voiceType": "child", "dialogueTemplates": ["夏天真好，可以唱歌跳舞！","现在该怎么办呢？"], "greeting": "我是蚱蜢，我喜欢唱歌跳舞！"}
+    ],
+    "wordCards": [
+      {"id": "wc_aesop009_1", "word": "蚂蚁", "pinyin": "mǎ yǐ", "meaningCN": "勤劳的小昆虫", "meaningEN": "ant"},
+      {"id": "wc_aesop009_2", "word": "蚱蜢", "pinyin": "zhà měng", "meaningCN": "会跳跃唱歌的昆虫", "meaningEN": "grasshopper"}
+    ],
+    "quiz": [
+      {"id": "q_aesop009_1", "question": "蚂蚁为什么在夏天忙碌？", "options": ["为了娱乐","储存粮食","寻找水源","建房子"], "correctAnswer": 1, "explanation": "蚂蚁在夏天储存粮食，为冬天做准备。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "aesop_010",
+    "title": "狮子与野驴",
+    "author": "伊索",
+    "category": "伊索寓言",
+    "level": 6,
+    "content": "狮子抓住了一头野驴，但野驴拼命挣扎，狮子吃力，最后决定放了它。野驴逃脱后感激狮子没有伤害它。",
+    "englishTranslation": "A lion caught a wild donkey, but the donkey struggled so much that the lion found it hard to hold on and eventually let it go. The donkey was grateful that the lion did not harm it.",
+    "storyType": "国外故事",
+    "origin": "Aesop's Fables",
+    "annotation": "关于力量与克制的寓言故事。",
+    "analysis": "故事告诉我们，力量并不总意味着胜利，有时宽容与克制更重要。",
+    "aiExplanation": "小朋友们，你觉得有时候为什么强者会选择放过弱者呢？",
+    "comprehensionQuestions": [
+      {"id": "cq_aesop010_1", "question": "狮子为什么最终放了野驴？", "type": "voice", "expectedKeywords": ["挣扎","吃力","放过"], "hint": "想想狮子抓野驴时的情况", "order": 1},
+      {"id": "cq_aesop010_2", "question": "请画出狮子和野驴的场景", "type": "drawing", "hint": "狮子抓住野驴，野驴挣扎", "order": 2},
+      {"id": "cq_aesop010_3", "question": "如果你是野驴，你会有什么感受？", "type": "emoji", "hint": "选择一个表情表示你的心情", "order": 3}
+    ],
+    "characters": [
+      {"id": "char_lion", "name": "狮子", "description": "森林之王，强壮但有克制", "personality": "强大、宽容", "voiceType": "male", "dialogueTemplates": ["你挣扎得很厉害，我放你走。"], "greeting": "我是狮子，我会用力量保护自己，也会克制。"},
+      {"id": "char_donkey", "name": "野驴", "description": "野生驴子，勇敢而挣扎", "personality": "勇敢、机智", "voiceType": "child", "dialogueTemplates": ["谢谢你放了我！"], "greeting": "我是野驴，我幸运地逃脱了！"}
+    ],
+    "wordCards": [
+      {"id": "wc_aesop010_1", "word": "狮子", "pinyin": "shī zi", "meaningCN": "猛兽，森林之王", "meaningEN": "lion"},
+      {"id": "wc_aesop010_2", "word": "野驴", "pinyin": "yě lǘ", "meaningCN": "生活在野外的驴", "meaningEN": "wild donkey"}
+    ],
+    "quiz": [
+      {"id": "q_aesop010_1", "question": "野驴为什么感激狮子？", "options": ["狮子没有吃它","狮子帮助它","狮子驯服了它","狮子和它玩耍"], "correctAnswer": 0, "explanation": "狮子没有伤害野驴，野驴因此感激。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  }
+  ,
+   {
+    "id": "andersen_001",
+    "title": "丑小鸭",
+    "author": "汉斯·克里斯蒂安·安徒生",
+    "category": "安徒生童话",
+    "level": 3,
+    "content": "从前，有一只小鸭子生下来就与众不同，被大家嘲笑为丑小鸭。它经历了风雨和孤独，最后长大变成了一只美丽的天鹅。",
+    "englishTranslation": "Once upon a time, there was a little duckling born different and mocked as the ugly duckling. After experiencing hardships and loneliness, it grew into a beautiful swan.",
+    "storyType": "国外故事",
+    "origin": "Hans Christian Andersen",
+    "annotation": "这是一个关于自我成长与坚持的经典童话故事。",
+    "analysis": "故事告诉我们，每个人都有独特的价值，即使遭受排斥，坚持下去会迎来美好的未来。",
+    "aiExplanation": "小朋友们，丑小鸭一开始被嘲笑，但它坚持自己，最后变成了漂亮的天鹅。你觉得坚持自己的努力重要吗？",
+    "comprehensionQuestions": [
+      {"id": "cq_andersen001_1", "question": "丑小鸭为什么被嘲笑？", "type": "voice", "expectedKeywords": ["丑","不同","嘲笑"], "hint": "想想小鸭和其他鸭子有什么不同", "order": 1},
+      {"id": "cq_andersen001_2", "question": "请画出丑小鸭变成天鹅的场景", "type": "drawing", "hint": "丑小鸭长大后变成了美丽的天鹅", "order": 2},
+      {"id": "cq_andersen001_3", "question": "如果你是丑小鸭，你会有什么感受？", "type": "emoji", "hint": "选择一个表情表示你的心情", "order": 3}
+    ],
+    "characters": [
+      {"id": "char_uglyduck", "name": "丑小鸭", "description": "一开始被嘲笑的鸭子，后来变成美丽天鹅", "personality": "坚强、内向、勇敢", "voiceType": "child", "dialogueTemplates": ["为什么大家不喜欢我？","我要坚持下去！"], "greeting": "我是丑小鸭，我会努力变得更好！"}
+    ],
+    "wordCards": [
+      {"id": "wc_andersen001_1", "word": "丑小鸭", "pinyin": "chǒu xiǎo yā", "meaningCN": "被认为不漂亮的小鸭子", "meaningEN": "ugly duckling"},
+      {"id": "wc_andersen001_2", "word": "天鹅", "pinyin": "tiān é", "meaningCN": "美丽优雅的大鸟", "meaningEN": "swan"}
+    ],
+    "quiz": [
+      {"id": "q_andersen001_1", "question": "丑小鸭最后变成了什么？", "options": ["鹅","天鹅","鸭子","鸡"], "correctAnswer": 1, "explanation": "丑小鸭坚持成长，最终变成了美丽的天鹅。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "andersen_002",
+    "title": "皇帝的新装",
+    "author": "汉斯·克里斯蒂安·安徒生",
+    "category": "安徒生童话",
+    "level": 3,
+    "content": "有一位虚荣的皇帝，两个骗子说能为他做出只有聪明人才能看见的新衣，皇帝穿上后假装看见，直到一个小孩说出了真相，大家才发现皇帝一丝不挂。",
+    "englishTranslation": "There was a vain emperor. Two swindlers claimed they could make clothes visible only to the wise. The emperor pretended to see them, until a child pointed out the truth—he was wearing nothing.",
+    "storyType": "国外故事",
+    "origin": "Hans Christian Andersen",
+    "annotation": "这是一个讽刺虚荣和盲从的经典童话故事。",
+    "analysis": "故事告诉我们，不要盲目跟从别人，也不要被虚荣蒙蔽眼睛。",
+    "aiExplanation": "小朋友们，皇帝为了虚荣，竟然穿着看不见的衣服出门。你觉得诚实和勇敢说出真话重要吗？",
+    "comprehensionQuestions": [
+      {"id": "cq_andersen002_1", "question": "皇帝为什么穿着‘看不见的衣服’？", "type": "voice", "expectedKeywords": ["虚荣","被骗","看不见"], "hint": "想想皇帝为什么想显得聪明", "order": 1},
+      {"id": "cq_andersen002_2", "question": "请画出皇帝走在大街上的场景", "type": "drawing", "hint": "皇帝一丝不挂，却大家都看不出", "order": 2},
+      {"id": "cq_andersen002_3", "question": "如果你是小孩，你会说什么？", "type": "emoji", "hint": "选择一个表情表示你的心情", "order": 3}
+    ],
+    "characters": [
+      {"id": "char_emperor", "name": "皇帝", "description": "爱虚荣的国王", "personality": "虚荣、傲慢", "voiceType": "male", "dialogueTemplates": ["真漂亮的衣服，我能看见！","大家都说看得见！"], "greeting": "我是皇帝，我喜欢华丽的衣服！"},
+      {"id": "char_child", "name": "小孩", "description": "天真直率的孩子", "personality": "诚实、勇敢", "voiceType": "child", "dialogueTemplates": ["皇帝没有穿衣服！"], "greeting": "我是小孩，我会说真话！"}
+    ],
+    "wordCards": [
+      {"id": "wc_andersen002_1", "word": "虚荣", "pinyin": "xū róng", "meaningCN": "过分在意外表或地位", "meaningEN": "vanity"},
+      {"id": "wc_andersen002_2", "word": "骗子", "pinyin": "piàn zi", "meaningCN": "用谎言欺骗别人", "meaningEN": "swindler"}
+    ],
+    "quiz": [
+      {"id": "q_andersen002_1", "question": "谁说出了皇帝没有穿衣服？", "options": ["大臣","小孩","皇后","士兵"], "correctAnswer": 1, "explanation": "是小孩指出皇帝一丝不挂。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "andersen_003",
+    "title": "拇指姑娘",
+    "author": "汉斯·克里斯蒂安·安徒生",
+    "category": "安徒生童话",
+    "level": 6,
+    "content": "有一位小女孩出生只有拇指大小，被称为拇指姑娘。她经历了许多冒险，最终找到了属于自己的幸福生活。",
+    "englishTranslation": "A little girl was born only the size of a thumb, called Thumbelina. She experienced many adventures and finally found her happy life.",
+    "storyType": "国外故事",
+    "origin": "Hans Christian Andersen",
+    "annotation": "这是一个关于勇气和成长的童话故事。",
+    "analysis": "故事教会孩子们，勇敢和坚持可以让你找到属于自己的幸福。",
+    "aiExplanation": "小朋友们，拇指姑娘虽然小，但她勇敢面对冒险。你觉得勇敢的人会遇到什么好事情呢？",
+    "comprehensionQuestions": [
+      {"id": "cq_andersen003_1", "question": "拇指姑娘为什么与众不同？", "type": "voice", "expectedKeywords": ["拇指","小","特别"], "hint": "想想她的大小", "order": 1},
+      {"id": "cq_andersen003_2", "question": "请画出拇指姑娘被动物帮助的场景", "type": "drawing", "hint": "拇指姑娘在冒险中遇到帮助她的动物", "order": 2},
+      {"id": "cq_andersen003_3", "question": "如果你是拇指姑娘，你会怎么做？", "type": "emoji", "hint": "选择一个表情表示你的心情", "order": 3}
+    ],
+    "characters": [
+      {"id": "char_thumbelina", "name": "拇指姑娘", "description": "小巧勇敢的女孩", "personality": "勇敢、坚强、善良", "voiceType": "child", "dialogueTemplates": ["我虽然小，但我会努力！"], "greeting": "我是拇指姑娘，我要勇敢面对冒险！"}
+    ],
+    "wordCards": [
+      {"id": "wc_andersen003_1", "word": "拇指姑娘", "pinyin": "mǔ zhǐ gū niang", "meaningCN": "出生很小的女孩", "meaningEN": "Thumbelina"},
+      {"id": "wc_andersen003_2", "word": "冒险", "pinyin": "mào xiǎn", "meaningCN": "面对未知的危险和挑战", "meaningEN": "adventure"}
+    ],
+    "quiz": [
+      {"id": "q_andersen003_1", "question": "拇指姑娘最后找到了什么？", "options": ["财富","幸福生活","大房子","朋友"], "correctAnswer": 1, "explanation": "拇指姑娘最终找到了属于自己的幸福生活。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  }
+  ,
+   {
+    "id": "andersen_004",
+    "title": "海的女儿",
+    "author": "汉斯·克里斯蒂安·安徒生",
+    "category": "安徒生童话",
+    "level": 7,
+    "content": "美人鱼为了获得人类的灵魂和爱，放弃了自己的声音，忍受巨大的痛苦，最后化作海上的泡沫。",
+    "englishTranslation": "The little mermaid gave up her voice and endured great pain to gain a human soul and love, eventually turning into sea foam.",
+    "storyType": "国外故事",
+    "origin": "Hans Christian Andersen",
+    "annotation": "这是一个关于爱与牺牲的浪漫童话。",
+    "analysis": "故事告诉孩子们，真爱可能需要牺牲，但坚持自己的信念同样重要。",
+    "aiExplanation": "小朋友们，美人鱼为了爱付出了很多。你们觉得为了爱值得牺牲吗？",
+    "comprehensionQuestions": [
+      {"id": "cq_andersen004_1", "question": "美人鱼为了什么放弃了声音？", "type": "voice", "expectedKeywords": ["爱","人类","灵魂"], "hint": "想想她想得到什么", "order": 1},
+      {"id": "cq_andersen004_2", "question": "请画出美人鱼变成泡沫的场景", "type": "drawing", "hint": "她变成了海上的泡沫", "order": 2},
+      {"id": "cq_andersen004_3", "question": "如果你是美人鱼，你会怎么选择？", "type": "emoji", "hint": "选择一个表情表示你的心情", "order": 3}
+    ],
+    "characters": [
+      {"id": "char_mermaid", "name": "美人鱼", "description": "勇敢追求爱与灵魂的海中少女", "personality": "勇敢、善良、牺牲", "voiceType": "female", "dialogueTemplates": ["我愿意放弃声音，只为爱！"], "greeting": "我是美人鱼，我追求爱和灵魂！"}
+    ],
+    "wordCards": [
+      {"id": "wc_andersen004_1", "word": "美人鱼", "pinyin": "měi rén yú", "meaningCN": "上半身是人，下半身是鱼的生物", "meaningEN": "mermaid"},
+      {"id": "wc_andersen004_2", "word": "牺牲", "pinyin": "xī shēng", "meaningCN": "为了某个目标放弃自己的一些东西", "meaningEN": "sacrifice"}
+    ],
+    "quiz": [
+      {"id": "q_andersen004_1", "question": "美人鱼最后变成了什么？", "options": ["人","泡沫","鱼","公主"], "correctAnswer": 1, "explanation": "美人鱼最终化作海上的泡沫。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "andersen_005",
+    "title": "卖火柴的小女孩",
+    "author": "汉斯·克里斯蒂安·安徒生",
+    "category": "安徒生童话",
+    "level": 5,
+    "content": "寒冷的冬夜，小女孩卖火柴讨生活。她点燃火柴取暖，看到温暖的幻象，最终在冰冷中离开人世。",
+    "englishTranslation": "On a cold winter night, a little girl selling matches tries to warm herself by lighting them, seeing visions of warmth, and eventually passes away in the cold.",
+    "storyType": "国外故事",
+    "origin": "Hans Christian Andersen",
+    "annotation": "这是一个关于贫困与善良的感人童话。",
+    "analysis": "故事让孩子们理解同情、关爱他人的重要性，同时反思社会的不公平。",
+    "aiExplanation": "小朋友们，卖火柴的小女孩非常可怜。你们觉得我们可以怎么帮助需要帮助的人呢？",
+    "comprehensionQuestions": [
+      {"id": "cq_andersen005_1", "question": "小女孩为什么卖火柴？", "type": "voice", "expectedKeywords": ["讨生活","寒冷","贫困"], "hint": "想想她为什么要工作", "order": 1},
+      {"id": "cq_andersen005_2", "question": "请画出小女孩点燃火柴看到的幻象", "type": "drawing", "hint": "她看到温暖和美好的景象", "order": 2},
+      {"id": "cq_andersen005_3", "question": "如果你是小女孩，你希望得到什么？", "type": "emoji", "hint": "选择一个表情表示你的心情", "order": 3}
+    ],
+    "characters": [
+      {"id": "char_matchgirl", "name": "小女孩", "description": "贫穷、善良、勇敢的小女孩", "personality": "善良、勇敢、坚强", "voiceType": "child", "dialogueTemplates": ["我好冷，我想要温暖！"], "greeting": "我是卖火柴的小女孩，我希望有人帮助我。"}
+    ],
+    "wordCards": [
+      {"id": "wc_andersen005_1", "word": "火柴", "pinyin": "huǒ chái", "meaningCN": "用来点火的小木棒", "meaningEN": "match"},
+      {"id": "wc_andersen005_2", "word": "寒冷", "pinyin": "hán lěng", "meaningCN": "天气很冷", "meaningEN": "cold"}
+    ],
+    "quiz": [
+      {"id": "q_andersen005_1", "question": "小女孩卖火柴的目的是？", "options": ["取暖","赚钱","交朋友","娱乐"], "correctAnswer": 1, "explanation": "小女孩卖火柴是为了讨生活、赚钱。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "andersen_006",
+    "title": "皇后的新宝石",
+    "author": "汉斯·克里斯蒂安·安徒生",
+    "category": "安徒生童话",
+    "level": 4,
+    "content": "一位皇后得到一颗魔法宝石，宝石让她看清人心，帮助她发现并赏识那些真正善良的人。",
+    "englishTranslation": "A queen received a magical gem that allowed her to see people's hearts and recognize those who were truly good.",
+    "storyType": "国外故事",
+    "origin": "Hans Christian Andersen",
+    "annotation": "这是一个关于善良与智慧的故事。",
+    "analysis": "故事教会孩子们识别真心与虚伪的重要性。",
+    "aiExplanation": "小朋友们，皇后用宝石发现谁是善良的人。你觉得识别真心重要吗？",
+    "comprehensionQuestions": [
+      {"id": "cq_andersen006_1", "question": "宝石有什么魔力？", "type": "voice", "expectedKeywords": ["看清","人心","善良"], "hint": "想想宝石能让皇后看到什么", "order": 1},
+      {"id": "cq_andersen006_2", "question": "请画出皇后使用宝石的场景", "type": "drawing", "hint": "宝石让她看到人们的善良", "order": 2},
+      {"id": "cq_andersen006_3", "question": "如果你有宝石，你会做什么？", "type": "emoji", "hint": "选择一个表情表示你的心情", "order": 3}
+    ],
+    "characters": [
+      {"id": "char_queen", "name": "皇后", "description": "善良智慧的皇后", "personality": "聪明、善良、公正", "voiceType": "female", "dialogueTemplates": ["宝石让我看到真心的人！"], "greeting": "我是皇后，我用宝石发现善良！"}
+    ],
+    "wordCards": [
+      {"id": "wc_andersen006_1", "word": "宝石", "pinyin": "bǎo shí", "meaningCN": "珍贵的矿物或装饰品", "meaningEN": "gem"},
+      {"id": "wc_andersen006_2", "word": "善良", "pinyin": "shàn liáng", "meaningCN": "心地好，有同情心", "meaningEN": "kindness"}
+    ],
+    "quiz": [
+      {"id": "q_andersen006_1", "question": "宝石的用途是？", "options": ["美观","识别人心","保佑皇后","装饰"], "correctAnswer": 1, "explanation": "宝石可以让皇后看清人心，识别善良的人。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "andersen_007",
+    "title": "卖糖果的小男孩",
+    "author": "汉斯·克里斯蒂安·安徒生",
+    "category": "安徒生童话",
+    "level": 4,
+    "content": "小男孩每天卖糖果，他帮助了很多人，用微笑和善意感染大家，最终收获了友谊和快乐。",
+    "englishTranslation": "A little boy sold candies every day. He helped many people, spreading kindness and smiles, and eventually gained friendship and happiness.",
+    "storyType": "国外故事",
+    "origin": "Hans Christian Andersen",
+    "annotation": "这是一个关于善良和分享的故事。",
+    "analysis": "故事告诉孩子们，分享和善良可以让自己和别人都快乐。",
+    "aiExplanation": "小朋友们，卖糖果的小男孩用微笑和善意感染大家。你觉得分享和帮助别人重要吗？",
+    "comprehensionQuestions": [
+      {"id": "cq_andersen007_1", "question": "小男孩每天做什么？", "type": "voice", "expectedKeywords": ["卖糖果","帮助","微笑"], "hint": "想想他的职业和行为", "order": 1},
+      {"id": "cq_andersen007_2", "question": "请画出小男孩帮助别人的场景", "type": "drawing", "hint": "小男孩用善意感染大家", "order": 2},
+      {"id": "cq_andersen007_3", "question": "如果你是小男孩，你会怎么做？", "type": "emoji", "hint": "选择一个表情表示你的心情", "order": 3}
+    ],
+    "characters": [
+      {"id": "char_candyboy", "name": "小男孩", "description": "善良勤劳的小男孩", "personality": "善良、乐于助人", "voiceType": "child", "dialogueTemplates": ["大家来买糖果吧！","希望我能帮到你们！"], "greeting": "我是卖糖果的小男孩，我喜欢帮助别人！"}
+    ],
+    "wordCards": [
+      {"id": "wc_andersen007_1", "word": "糖果", "pinyin": "táng guǒ", "meaningCN": "甜食，用于零食或礼物", "meaningEN": "candy"},
+      {"id": "wc_andersen007_2", "word": "善意", "pinyin": "shàn yì", "meaningCN": "好心，友好和帮助别人", "meaningEN": "kindness"}
+    ],
+    "quiz": [
+      {"id": "q_andersen007_1", "question": "小男孩最终收获了什么？", "options": ["财富","友谊和快乐","名声","糖果"], "correctAnswer": 1, "explanation": "小男孩因为善良和分享收获了友谊和快乐。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  }
+  ,
+   {
+    "id": "andersen_008",
+    "title": "夜莺",
+    "author": "汉斯·克里斯蒂安·安徒生",
+    "category": "安徒生童话",
+    "level": 5,
+    "content": "皇帝听说有一种夜莺的歌声非常动人，于是召它入宫。夜莺用歌声感动了皇帝，后来皇帝生病时，夜莺又用歌声救了他。",
+    "englishTranslation": "The emperor heard that a nightingale's song was enchanting, so he brought it to the palace. The nightingale moved the emperor with its singing and later saved him when he was ill.",
+    "storyType": "国外故事",
+    "origin": "Hans Christian Andersen",
+    "annotation": "这是一个关于自然之美与真诚的故事。",
+    "analysis": "故事教孩子们欣赏自然之美，理解真诚和善意的力量。",
+    "aiExplanation": "小朋友们，夜莺用美妙的歌声打动了皇帝。你们觉得自然的声音和真诚有什么魔力呢？",
+    "comprehensionQuestions": [
+      {"id": "cq_andersen008_1", "question": "夜莺为什么被带入宫中？", "type": "voice", "expectedKeywords": ["歌声","动人","皇帝"], "hint": "想想皇帝为什么喜欢夜莺", "order": 1},
+      {"id": "cq_andersen008_2", "question": "请画出夜莺在宫中歌唱的场景", "type": "drawing", "hint": "夜莺的歌声打动了皇帝", "order": 2},
+      {"id": "cq_andersen008_3", "question": "如果你是皇帝，你会怎么做？", "type": "emoji", "hint": "选择一个表情表示你的心情", "order": 3}
+    ],
+    "characters": [
+      {"id": "char_nightingale", "name": "夜莺", "description": "美丽而善良的小鸟", "personality": "真诚、美丽、善良", "voiceType": "child", "dialogueTemplates": ["我用歌声给大家带来快乐！"], "greeting": "我是夜莺，我用歌声感动大家！"},
+      {"id": "char_emperor2", "name": "皇帝", "description": "喜爱美丽和艺术的皇帝", "personality": "好奇、欣赏自然", "voiceType": "male", "dialogueTemplates": ["夜莺的歌声真美！"], "greeting": "我是皇帝，我喜欢美丽的事物！"}
+    ],
+    "wordCards": [
+      {"id": "wc_andersen008_1", "word": "夜莺", "pinyin": "yè yīng", "meaningCN": "一种会唱歌的小鸟", "meaningEN": "nightingale"},
+      {"id": "wc_andersen008_2", "word": "动人", "pinyin": "dòng rén", "meaningCN": "让人感动", "meaningEN": "touching"}
+    ],
+    "quiz": [
+      {"id": "q_andersen008_1", "question": "夜莺用什么打动了皇帝？", "options": ["翅膀","歌声","羽毛","舞蹈"], "correctAnswer": 1, "explanation": "夜莺用美妙的歌声打动了皇帝。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "andersen_009",
+    "title": "小锡兵",
+    "author": "汉斯·克里斯蒂安·安徒生",
+    "category": "安徒生童话",
+    "level": 5,
+    "content": "有一个只有一条腿的小锡兵，他勇敢坚强，经历了各种冒险，最终与玩偶公主团聚。",
+    "englishTranslation": "There was a little tin soldier with only one leg. He was brave and endured many adventures, ultimately reuniting with the doll princess.",
+    "storyType": "国外故事",
+    "origin": "Hans Christian Andersen",
+    "annotation": "这是一个关于勇气和爱情的故事。",
+    "analysis": "故事告诉孩子们勇敢和坚持的重要性，即使身处困境也不要放弃希望。",
+    "aiExplanation": "小朋友们，小锡兵虽然只有一条腿，但他勇敢又坚强。你们觉得勇气和坚持能带来什么？",
+    "comprehensionQuestions": [
+      {"id": "cq_andersen009_1", "question": "小锡兵有什么特别之处？", "type": "voice", "expectedKeywords": ["一条腿","勇敢","坚强"], "hint": "想想他的外貌和性格", "order": 1},
+      {"id": "cq_andersen009_2", "question": "请画出小锡兵经历冒险的场景", "type": "drawing", "hint": "他勇敢面对挑战", "order": 2},
+      {"id": "cq_andersen009_3", "question": "如果你是小锡兵，你会怎么做？", "type": "emoji", "hint": "选择一个表情表示你的心情", "order": 3}
+    ],
+    "characters": [
+      {"id": "char_tinsoldier", "name": "小锡兵", "description": "勇敢坚强的锡兵", "personality": "勇敢、坚强、执着", "voiceType": "child", "dialogueTemplates": ["我一定要坚持到底！"], "greeting": "我是小锡兵，我勇敢面对一切挑战！"}
+    ],
+    "wordCards": [
+      {"id": "wc_andersen009_1", "word": "锡兵", "pinyin": "xī bīng", "meaningCN": "用锡做的小兵玩具", "meaningEN": "tin soldier"},
+      {"id": "wc_andersen009_2", "word": "冒险", "pinyin": "mào xiǎn", "meaningCN": "面对危险或挑战", "meaningEN": "adventure"}
+    ],
+    "quiz": [
+      {"id": "q_andersen009_1", "question": "小锡兵最后和谁团聚？", "options": ["小女孩","玩偶公主","皇帝","夜莺"], "correctAnswer": 1, "explanation": "小锡兵最终与玩偶公主团聚。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "andersen_010",
+    "title": "丑陋的鸭子",
+    "author": "汉斯·克里斯蒂安·安徒生",
+    "category": "安徒生童话",
+    "level": 4,
+    "content": "一只看起来不漂亮的小鸭子在经历艰难生活后，终于长大成为美丽的天鹅，赢得了大家的赞赏。",
+    "englishTranslation": "An unattractive little duckling endured hardships and eventually grew into a beautiful swan, earning everyone's admiration.",
+    "storyType": "国外故事",
+    "origin": "Hans Christian Andersen",
+    "annotation": "这是一个关于成长和自我认同的故事。",
+    "analysis": "故事告诉孩子们，每个人都有独特价值，经过努力可以变得更加优秀。",
+    "aiExplanation": "小朋友们，这只小鸭子虽然一开始被嘲笑，但最终变得很美丽。你们觉得坚持努力重要吗？",
+    "comprehensionQuestions": [
+      {"id": "cq_andersen010_1", "question": "小鸭子最后变成了什么？", "type": "voice", "expectedKeywords": ["天鹅","美丽","成长"], "hint": "想想最后的变化", "order": 1},
+      {"id": "cq_andersen010_2", "question": "请画出小鸭子变成天鹅的场景", "type": "drawing", "hint": "它从丑小鸭变成美丽的天鹅", "order": 2},
+      {"id": "cq_andersen010_3", "question": "如果你是小鸭子，你会有什么感受？", "type": "emoji", "hint": "选择一个表情表示你的心情", "order": 3}
+    ],
+    "characters": [
+      {"id": "char_uglyduck2", "name": "丑陋的小鸭", "description": "一开始不漂亮的小鸭子，最后变成天鹅", "personality": "坚强、勇敢、有耐心", "voiceType": "child", "dialogueTemplates": ["我一定会变得漂亮！"], "greeting": "我是小鸭子，我相信自己会变美！"}
+    ],
+    "wordCards": [
+      {"id": "wc_andersen010_1", "word": "丑陋", "pinyin": "chǒu lòu", "meaningCN": "不漂亮，外表不好看", "meaningEN": "ugly"},
+      {"id": "wc_andersen010_2", "word": "成长", "pinyin": "chéng zhǎng", "meaningCN": "逐渐长大或进步", "meaningEN": "growth"}
+    ],
+    "quiz": [
+      {"id": "q_andersen010_1", "question": "小鸭子经历了什么后变成天鹅？", "options": ["努力和坚持","睡觉","玩耍","旅行"], "correctAnswer": 0, "explanation": "小鸭子通过努力和坚持，最终变成美丽天鹅。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  }
+  ,
+    {
+    "id": "arabian_001",
+    "title": "阿里巴巴和四十大盗",
+    "author": "阿拉伯民间故事",
+    "category": "阿拉伯童话",
+    "level": 5,
+    "content": "阿里巴巴是一个穷樵夫，某天他发现盗贼的藏宝洞，学会了‘芝麻开门’的秘密口令，最终智斗盗贼，保护了家人。",
+    "englishTranslation": "Ali Baba, a poor woodcutter, discovered a thieves' treasure cave one day, learned the secret phrase 'Open Sesame', and cleverly outwitted the thieves to protect his family.",
+    "storyType": "国外故事",
+    "origin": "一千零一夜",
+    "annotation": "这是关于聪明、勇气和智慧的经典故事。",
+    "analysis": "告诉孩子们面对困难要机智勇敢，同时保护亲人。",
+    "aiExplanation": "小朋友们，阿里巴巴用智慧保护了自己和家人，你们觉得智慧和勇气哪个更重要？",
+    "comprehensionQuestions": [
+      {"id": "cq_arabian001_1", "question": "阿里巴巴是做什么的？", "type": "voice", "expectedKeywords": ["樵夫","穷"], "hint": "想想他平时干什么工作", "order": 1},
+      {"id": "cq_arabian001_2", "question": "请画出藏宝洞的场景", "type": "drawing", "hint": "洞里有很多宝物", "order": 2}
+    ],
+    "characters": [
+      {"id": "char_alibaba", "name": "阿里巴巴", "description": "聪明善良的樵夫", "personality": "机智、勇敢", "voiceType": "male", "dialogueTemplates": ["我要保护家人，不能让盗贼得逞！"], "greeting": "我是阿里巴巴，我用智慧战胜了盗贼！"},
+      {"id": "char_thieves", "name": "盗贼们", "description": "凶恶的盗贼", "personality": "贪婪、凶狠", "voiceType": "male", "dialogueTemplates": ["谁敢动我们的宝藏！"], "greeting": "我们是盗贼，谁敢靠近我们的宝藏！"}
+    ],
+    "wordCards": [
+      {"id": "wc_arabian001_1", "word": "樵夫", "pinyin": "qiáo fū", "meaningCN": "砍柴为生的人", "meaningEN": "woodcutter"},
+      {"id": "wc_arabian001_2", "word": "智斗", "pinyin": "zhì dòu", "meaningCN": "用智慧与对方斗争", "meaningEN": "outwit with intelligence"}
+    ],
+    "quiz": [
+      {"id": "q_arabian001_1", "question": "阿里巴巴如何打开藏宝洞？", "options": ["钥匙","芝麻开门","魔法","喊叫"], "correctAnswer": 1, "explanation": "阿里巴巴使用秘密口令‘芝麻开门’打开藏宝洞。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "arabian_002",
+    "title": "辛巴达航海记",
+    "author": "阿拉伯民间故事",
+    "category": "阿拉伯童话",
+    "level": 5,
+    "content": "辛巴达是一位勇敢的水手，他多次出海历险，遇到巨大的海怪和宝藏，最终学会了智慧与勇气的重要性。",
+    "englishTranslation": "Sinbad was a brave sailor who had many adventures at sea, encountering giant sea monsters and treasures, ultimately learning the importance of wisdom and courage.",
+    "storyType": "国外故事",
+    "origin": "一千零一夜",
+    "annotation": "这是关于冒险、智慧和勇气的故事。",
+    "analysis": "鼓励孩子们勇敢面对困难，同时懂得运用智慧解决问题。",
+    "aiExplanation": "小朋友们，辛巴达面对危险的海怪仍然勇敢前行，你们觉得遇到困难时该怎么办？",
+    "comprehensionQuestions": [
+      {"id": "cq_arabian002_1", "question": "辛巴达是做什么的？", "type": "voice", "expectedKeywords": ["水手","航海"], "hint": "想想他经常在海上做什么", "order": 1},
+      {"id": "cq_arabian002_2", "question": "请画出辛巴达遇到海怪的场景", "type": "drawing", "hint": "海怪很大很可怕", "order": 2}
+    ],
+    "characters": [
+      {"id": "char_sindbad", "name": "辛巴达", "description": "勇敢聪明的水手", "personality": "勇敢、智慧、冒险精神", "voiceType": "male", "dialogueTemplates": ["我要面对海上的一切挑战！"], "greeting": "我是辛巴达，我勇敢面对大海的挑战！"},
+      {"id": "char_seamonster", "name": "海怪", "description": "海中的巨大怪兽", "personality": "凶猛、可怕", "voiceType": "male", "dialogueTemplates": ["你逃不掉！"], "greeting": "我是海怪，出海要小心我！"}
+    ],
+    "wordCards": [
+      {"id": "wc_arabian002_1", "word": "航海", "pinyin": "háng hǎi", "meaningCN": "在海上旅行", "meaningEN": "sailing"},
+      {"id": "wc_arabian002_2", "word": "冒险", "pinyin": "mào xiǎn", "meaningCN": "去做有风险的事情", "meaningEN": "adventure"}
+    ],
+    "quiz": [
+      {"id": "q_arabian002_1", "question": "辛巴达遇到了什么危险？", "options": ["风暴","海怪","暴风雪","小船翻"], "correctAnswer": 1, "explanation": "辛巴达在航海中遇到了巨大的海怪。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "arabian_003",
+    "title": "阿拉丁和神灯",
+    "author": "阿拉伯民间故事",
+    "category": "阿拉伯童话",
+    "level": 5,
+    "content": "阿拉丁得到一盏神奇的油灯，灯神可以实现他的愿望。阿拉丁用智慧和勇气保护家人，最终获得幸福。",
+    "englishTranslation": "Aladdin obtained a magical lamp whose genie could grant wishes. He used wisdom and courage to protect his family and ultimately achieved happiness.",
+    "storyType": "国外故事",
+    "origin": "一千零一夜",
+    "annotation": "这是关于智慧、勇气和善良的经典故事。",
+    "analysis": "故事教孩子们善良与勇气的重要性，懂得用智慧解决问题。",
+    "aiExplanation": "小朋友们，阿拉丁有神灯可以实现愿望，但他用智慧保护了家人，你们觉得智慧比魔法更重要吗？",
+    "comprehensionQuestions": [
+      {"id": "cq_arabian003_1", "question": "神灯能做什么？", "type": "voice", "expectedKeywords": ["实现愿望","魔法"], "hint": "想想灯神的能力", "order": 1},
+      {"id": "cq_arabian003_2", "question": "请画出阿拉丁与灯神的场景", "type": "drawing", "hint": "灯神能出现烟雾和光", "order": 2}
+    ],
+    "characters": [
+      {"id": "char_aladdin", "name": "阿拉丁", "description": "聪明勇敢的年轻人", "personality": "勇敢、智慧、善良", "voiceType": "child", "dialogueTemplates": ["我一定要保护家人！"], "greeting": "我是阿拉丁，我用智慧实现梦想！"},
+      {"id": "char_genie", "name": "灯神", "description": "神奇的灯神", "personality": "强大、忠诚", "voiceType": "male", "dialogueTemplates": ["你的愿望我来实现！"], "greeting": "我是灯神，我会帮助阿拉丁！"}
+    ],
+    "wordCards": [
+      {"id": "wc_arabian003_1", "word": "油灯", "pinyin": "yóu dēng", "meaningCN": "古代用油点燃的灯", "meaningEN": "oil lamp"},
+      {"id": "wc_arabian003_2", "word": "愿望", "pinyin": "yuàn wàng", "meaningCN": "希望实现的事情", "meaningEN": "wish"}
+    ],
+    "quiz": [
+      {"id": "q_arabian003_1", "question": "阿拉丁如何使用神灯？", "options": ["只玩耍","实现愿望","送给朋友","藏起来"], "correctAnswer": 1, "explanation": "阿拉丁用神灯实现愿望，并保护了家人。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  }
+  ,
+    {
+    "id": "arabian_004",
+    "title": "塞赫拉萨的聪明公主",
+    "author": "阿拉伯民间故事",
+    "category": "阿拉伯童话",
+    "level": 5,
+    "content": "公主塞赫拉萨聪明机智，她用智慧解决了王国的难题，让国王和百姓都佩服她。",
+    "englishTranslation": "Princess Scheherazade was clever and wise. She solved the kingdom's problems with her intelligence, earning admiration from the king and the people.",
+    "storyType": "国外故事",
+    "origin": "一千零一夜",
+    "annotation": "这是关于智慧和勇气的经典故事。",
+    "analysis": "告诉孩子们遇到问题要动脑筋，用智慧解决困难。",
+    "aiExplanation": "小朋友们，塞赫拉萨用智慧帮助了国王和百姓，你觉得聪明重要吗？",
+    "comprehensionQuestions": [
+      {"id": "cq_arabian004_1", "question": "公主如何解决问题？", "type": "voice", "expectedKeywords": ["智慧","聪明"], "hint": "想想她用了什么能力", "order": 1},
+      {"id": "cq_arabian004_2", "question": "请画出公主思考问题的场景", "type": "drawing", "hint": "她在宫殿里思考", "order": 2}
+    ],
+    "characters": [
+      {"id": "char_scheherazade", "name": "塞赫拉萨", "description": "聪明勇敢的公主", "personality": "机智、勇敢、善良", "voiceType": "female", "dialogueTemplates": ["我用智慧保护我的国家！"], "greeting": "我是塞赫拉萨公主，我用智慧解决问题！"}
+    ],
+    "wordCards": [
+      {"id": "wc_arabian004_1", "word": "机智", "pinyin": "jī zhì", "meaningCN": "聪明灵活，有智慧", "meaningEN": "clever"},
+      {"id": "wc_arabian004_2", "word": "佩服", "pinyin": "pèi fú", "meaningCN": "敬重、钦佩", "meaningEN": "admire"}
+    ],
+    "quiz": [
+      {"id": "q_arabian004_1", "question": "公主最突出的特点是什么？", "options": ["勇敢","智慧","美丽","善良"], "correctAnswer": 1, "explanation": "公主以智慧解决难题而闻名。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "arabian_005",
+    "title": "阿卜杜拉与魔法驴",
+    "author": "阿拉伯民间故事",
+    "category": "阿拉伯童话",
+    "level": 4,
+    "content": "阿卜杜拉得到一只会变出宝物的魔法驴，他善用魔法帮助村民，打败了贪婪的邻居。",
+    "englishTranslation": "Abdullah received a magical donkey that could produce treasures. He wisely used the magic to help villagers and defeat greedy neighbors.",
+    "storyType": "国外故事",
+    "origin": "阿拉伯民间故事",
+    "annotation": "这是关于智慧、善良和正义的故事。",
+    "analysis": "告诉孩子们善用能力帮助他人，比自私更有意义。",
+    "aiExplanation": "小朋友们，阿卜杜拉用魔法帮助别人，你们觉得帮助别人重要吗？",
+    "comprehensionQuestions": [
+      {"id": "cq_arabian005_1", "question": "阿卜杜拉的驴有什么特别的能力？", "type": "voice", "expectedKeywords": ["变宝物","魔法"], "hint": "想想驴能做什么", "order": 1},
+      {"id": "cq_arabian005_2", "question": "请画出阿卜杜拉与魔法驴的场景", "type": "drawing", "hint": "魔法驴可以变出宝物", "order": 2}
+    ],
+    "characters": [
+      {"id": "char_abdullah", "name": "阿卜杜拉", "description": "善良勇敢的少年", "personality": "智慧、善良、勇敢", "voiceType": "child", "dialogueTemplates": ["我会用魔法帮助大家！"], "greeting": "我是阿卜杜拉，我用魔法帮助村民！"},
+      {"id": "char_magicdonkey", "name": "魔法驴", "description": "会变出宝物的驴", "personality": "忠诚、聪明", "voiceType": "child", "dialogueTemplates": ["我能变出宝物！"], "greeting": "我是魔法驴，我能帮助阿卜杜拉！"}
+    ],
+    "wordCards": [
+      {"id": "wc_arabian005_1", "word": "善良", "pinyin": "shàn liáng", "meaningCN": "心地好，乐于助人", "meaningEN": "kind"},
+      {"id": "wc_arabian005_2", "word": "贪婪", "pinyin": "tān lán", "meaningCN": "过分想要东西", "meaningEN": "greedy"}
+    ],
+    "quiz": [
+      {"id": "q_arabian005_1", "question": "阿卜杜拉用魔法做了什么？", "options": ["帮助村民","偷东西","打架","旅行"], "correctAnswer": 0, "explanation": "阿卜杜拉用魔法帮助村民，打败贪婪邻居。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "arabian_006",
+    "title": "阿里与月亮精灵",
+    "author": "阿拉伯民间故事",
+    "category": "阿拉伯童话",
+    "level": 4,
+    "content": "阿里在沙漠迷路时遇到月亮精灵，精灵帮助他找到回家的路，并赠送他智慧之石。",
+    "englishTranslation": "Ali got lost in the desert and met a Moon Spirit. The spirit helped him find his way home and gave him a Stone of Wisdom.",
+    "storyType": "国外故事",
+    "origin": "阿拉伯民间故事",
+    "annotation": "这是关于帮助与智慧的故事。",
+    "analysis": "告诉孩子们遇到困难时保持冷静，并勇敢求助。",
+    "aiExplanation": "小朋友们，阿里遇到困难时得到了帮助，你们在迷路或困惑时会怎么办？",
+    "comprehensionQuestions": [
+      {"id": "cq_arabian006_1", "question": "月亮精灵给了阿里什么？", "type": "voice", "expectedKeywords": ["智慧之石","帮助"], "hint": "想想精灵送了什么礼物", "order": 1}
+    ],
+    "characters": [
+      {"id": "char_ali", "name": "阿里", "description": "勇敢的少年", "personality": "勇敢、善良", "voiceType": "child", "dialogueTemplates": ["我需要找到回家的路！"], "greeting": "我是阿里，我在沙漠中学会勇敢！"},
+      {"id": "char_moonspirit", "name": "月亮精灵", "description": "神秘的精灵", "personality": "善良、智慧", "voiceType": "female", "dialogueTemplates": ["我来帮助你找到回家的路！"], "greeting": "我是月亮精灵，我会用智慧帮助迷路的人！"}
+    ],
+    "wordCards": [
+      {"id": "wc_arabian006_1", "word": "沙漠", "pinyin": "shā mò", "meaningCN": "大片荒无人烟的沙地", "meaningEN": "desert"},
+      {"id": "wc_arabian006_2", "word": "精灵", "pinyin": "jīng líng", "meaningCN": "神秘的小神或仙", "meaningEN": "spirit"}
+    ],
+    "quiz": [
+      {"id": "q_arabian006_1", "question": "阿里是怎么回家的？", "options": ["自己走","月亮精灵帮忙","问别人","迷路"], "correctAnswer": 1, "explanation": "月亮精灵帮助阿里找到回家的路，并赠送智慧之石。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+   {
+    "id": "arabian_007",
+    "title": "巴德尔与神奇的马",
+    "author": "阿拉伯民间故事",
+    "category": "阿拉伯童话",
+    "level": 5,
+    "content": "巴德尔是一位年轻勇敢的骑士，他在旅途中发现了一匹会飞的神奇马。这匹马不仅能带他飞越高山和大海，还能感知危险。在一次与巨龙的战斗中，巴德尔依靠马的智慧和自己的勇气，成功保护了村庄的居民。",
+    "englishTranslation": "Badr was a young and brave knight who discovered a magical flying horse on his journey. The horse could fly over mountains and seas and sense danger. In a battle with a dragon, Badr relied on the horse's intelligence and his own courage to protect the villagers.",
+    "storyType": "国外故事",
+    "origin": "一千零一夜",
+    "annotation": "这是关于勇气、智慧和友情的经典故事。",
+    "analysis": "孩子们可以学习到勇气和智慧的重要性，以及朋友间互相帮助的价值。",
+    "aiExplanation": "小朋友们，巴德尔和神奇的马一起战胜了危险，你们觉得如果有朋友在旁边，会更容易面对困难吗？",
+    "comprehensionQuestions": [
+      {"id": "cq_arabian007_1", "question": "神奇的马有哪些特别能力？", "type": "voice", "expectedKeywords": ["飞行","感知危险"], "hint": "想想马能做什么神奇的事情", "order": 1},
+      {"id": "cq_arabian007_2", "question": "请画出巴德尔骑着神奇马与巨龙战斗的场景", "type": "drawing", "hint": "巨龙很大，巴德尔勇敢面对", "order": 2}
+    ],
+    "characters": [
+      {"id": "char_badr", "name": "巴德尔", "description": "勇敢机智的骑士", "personality": "勇敢、智慧、善良", "voiceType": "male", "dialogueTemplates": ["我们一定能保护村民！"], "greeting": "我是巴德尔，我和神奇的马一起守护大家！"},
+      {"id": "char_flyinghorse", "name": "神奇马", "description": "会飞、能感知危险的马", "personality": "聪明、忠诚", "voiceType": "male", "dialogueTemplates": ["我能飞，也能帮你避开危险！"], "greeting": "我是神奇的马，我会保护我的骑士！"}
+    ],
+    "wordCards": [
+      {"id": "wc_arabian007_1", "word": "骑士", "pinyin": "qí shì", "meaningCN": "古代武士，勇敢的人", "meaningEN": "knight"},
+      {"id": "wc_arabian007_2", "word": "巨龙", "pinyin": "jù lóng", "meaningCN": "传说中巨大的龙", "meaningEN": "dragon"}
+    ],
+    "quiz": [
+      {"id": "q_arabian007_1", "question": "巴德尔是如何保护村民的？", "options": ["躲起来","依靠神奇马和勇气","逃跑","请求魔法"], "correctAnswer": 1, "explanation": "巴德尔凭借神奇马的能力和自己的勇气战胜了巨龙，保护了村民。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "arabian_008",
+    "title": "拉希德与月亮宝盒",
+    "author": "阿拉伯民间故事",
+    "category": "阿拉伯童话",
+    "level": 5,
+    "content": "拉希德在夜晚的沙漠中找到一只闪闪发光的宝盒，宝盒里藏着一颗会发光的神奇月亮石。拉希德利用月亮石照亮村庄，帮助迷路的旅人，同时也引来了一些觊觎宝石的坏人。最终，拉希德靠智慧和勇气，保护了月亮石，也让村民们生活更幸福。",
+    "englishTranslation": "Rashid found a glowing treasure box in the desert at night, which contained a magical Moon Stone. Rashid used the stone to light up the village and help lost travelers, while some greedy people tried to steal it. In the end, Rashid protected the Moon Stone with wisdom and courage, making the villagers' lives happier.",
+    "storyType": "国外故事",
+    "origin": "阿拉伯民间故事",
+    "annotation": "关于智慧、勇气和分享的故事。",
+    "analysis": "告诉孩子们善用资源帮助别人，同时保护重要的东西。",
+    "aiExplanation": "小朋友们，拉希德用宝石帮助了村民，你们觉得用自己的力量帮助别人重要吗？",
+    "comprehensionQuestions": [
+      {"id": "cq_arabian008_1", "question": "月亮宝盒里藏着什么？", "type": "voice", "expectedKeywords": ["月亮石","发光"], "hint": "想想宝盒里最神奇的东西是什么", "order": 1},
+      {"id": "cq_arabian008_2", "question": "请画出拉希德用月亮石照亮村庄的场景", "type": "drawing", "hint": "月亮石发出光照亮黑夜", "order": 2}
+    ],
+    "characters": [
+      {"id": "char_rashid", "name": "拉希德", "description": "勇敢智慧的少年", "personality": "勇敢、善良、智慧", "voiceType": "child", "dialogueTemplates": ["我要保护宝石，也帮助大家！"], "greeting": "我是拉希德，我用智慧和勇气保护月亮石！"},
+      {"id": "char_villagers", "name": "村民", "description": "生活在沙漠村庄的人们", "personality": "善良、友好", "voiceType": "child", "dialogueTemplates": ["谢谢拉希德帮助我们！"], "greeting": "我们是村民，拉希德保护了我们！"}
+    ],
+    "wordCards": [
+      {"id": "wc_arabian008_1", "word": "沙漠", "pinyin": "shā mò", "meaningCN": "大片荒无人烟的沙地", "meaningEN": "desert"},
+      {"id": "wc_arabian008_2", "word": "宝盒", "pinyin": "bǎo hé", "meaningCN": "装宝物的盒子", "meaningEN": "treasure box"}
+    ],
+    "quiz": [
+      {"id": "q_arabian008_1", "question": "拉希德用月亮石做了什么？", "options": ["照亮村庄","卖给别人","藏起来","玩耍"], "correctAnswer": 0, "explanation": "拉希德用月亮石照亮村庄，帮助迷路的旅人。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "arabian_009",
+    "title": "哈立德与魔法花园",
+    "author": "阿拉伯民间故事",
+    "category": "阿拉伯童话",
+    "level": 5,
+    "content": "哈立德无意中进入一座魔法花园，花园里的植物会说话，有的会指引方向，有的会提醒危险。哈立德学会了与植物交流，并在花园里找到宝贵的草药，帮助生病的村民恢复健康。",
+    "englishTranslation": "Khalid accidentally entered a magical garden where the plants could talk, some guiding directions and others warning of danger. Khalid learned to communicate with the plants and found precious herbs to help sick villagers recover.",
+    "storyType": "国外故事",
+    "origin": "阿拉伯民间故事",
+    "annotation": "这是关于观察、学习和善良的故事。",
+    "analysis": "告诉孩子们用心观察世界、学习自然的智慧，并用所学帮助他人。",
+    "aiExplanation": "小朋友们，哈立德学会与植物交流并帮助别人，你们觉得观察身边的事物重要吗？",
+    "comprehensionQuestions": [
+      {"id": "cq_arabian009_1", "question": "魔法花园里的植物能做什么？", "type": "voice", "expectedKeywords": ["说话","指引方向","提醒危险"], "hint": "想想花园里植物的特别能力", "order": 1},
+      {"id": "cq_arabian009_2", "question": "请画出哈立德在魔法花园找到草药的场景", "type": "drawing", "hint": "花园里有很多奇妙的植物", "order": 2}
+    ],
+    "characters": [
+      {"id": "char_khalid", "name": "哈立德", "description": "勇敢善良的少年", "personality": "善良、聪明、勇敢", "voiceType": "child", "dialogueTemplates": ["我会学会与植物交流，帮助村民！"], "greeting": "我是哈立德，我在魔法花园中学到了智慧！"},
+      {"id": "char_plants", "name": "魔法植物", "description": "会说话的植物", "personality": "聪明、善意", "voiceType": "child", "dialogueTemplates": ["小心这里有危险！","往那边走会安全"], "greeting": "我们是魔法植物，我们会帮助哈立德！"}
+    ],
+    "wordCards": [
+      {"id": "wc_arabian009_1", "word": "草药", "pinyin": "cǎo yào", "meaningCN": "用于治病的植物", "meaningEN": "herb"},
+      {"id": "wc_arabian009_2", "word": "魔法", "pinyin": "mó fǎ", "meaningCN": "超自然的能力", "meaningEN": "magic"}
+    ],
+    "quiz": [
+      {"id": "q_arabian009_1", "question": "哈立德为什么去魔法花园？", "options": ["偶然进入","任务指引","寻找宝物","旅行"], "correctAnswer": 0, "explanation": "哈立德无意中进入魔法花园，并学会与植物交流帮助村民。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "arabian_010",
+    "title": "扎伊德与风之精灵",
+    "author": "阿拉伯民间故事",
+    "category": "阿拉伯童话",
+    "level": 5,
+    "content": "扎伊德是一个善良勇敢的少年，他在沙漠中遇到风之精灵，精灵带他乘风飞行，穿越沙丘和绿洲。在旅途中，扎伊德学会了帮助他人，也明白了责任的重要性。他用智慧解决了沙漠中的水源危机，让村民和旅人都受益。",
+    "englishTranslation": "Zaid was a kind and brave boy who met the Wind Spirit in the desert. The spirit took him flying over dunes and oases. During the journey, Zaid learned to help others and understood the importance of responsibility. He used his wisdom to solve a water shortage, benefiting villagers and travelers.",
+    "storyType": "国外故事",
+    "origin": "阿拉伯民间故事",
+    "annotation": "这是关于责任、善良和智慧的故事。",
+    "analysis": "教孩子们在冒险中承担责任，善用智慧帮助他人。",
+    "aiExplanation": "小朋友们，扎伊德学会帮助别人，你们觉得责任和善良哪个更重要呢？",
+    "comprehensionQuestions": [
+      {"id": "cq_arabian010_1", "question": "风之精灵带扎伊德做了什么？", "type": "voice", "expectedKeywords": ["飞行","穿越沙漠"], "hint": "想想精灵给了他什么能力", "order": 1},
+      {"id": "cq_arabian010_2", "question": "请画出扎伊德在沙漠中乘风飞行的场景", "type": "drawing", "hint": "沙漠中有风和绿洲", "order": 2}
+    ],
+    "characters": [
+      {"id": "char_zaid", "name": "扎伊德", "description": "勇敢善良的少年", "personality": "善良、勇敢、智慧", "voiceType": "child", "dialogueTemplates": ["我要用我的能力帮助大家！"], "greeting": "我是扎伊德，我学会了责任与善良！"},
+      {"id": "char_windspirit", "name": "风之精灵", "description": "控制风的神秘精灵", "personality": "善良、机智", "voiceType": "female", "dialogueTemplates": ["我带你飞越沙漠和绿洲！"], "greeting": "我是风之精灵，我会带你飞翔并教你智慧！"}
+    ],
+    "wordCards": [
+      {"id": "wc_arabian010_1", "word": "绿洲", "pinyin": "lǜ zhōu", "meaningCN": "沙漠中有水和植物的地方", "meaningEN": "oasis"},
+      {"id": "wc_arabian010_2", "word": "责任", "pinyin": "zé rèn", "meaningCN": "应该承担的义务或任务", "meaningEN": "responsibility"}
+    ],
+    "quiz": [
+      {"id": "q_arabian010_1", "question": "扎伊德用智慧解决了什么问题？", "options": ["水源危机","交通问题","食物危机","迷路"], "correctAnswer": 0, "explanation": "扎伊德用智慧解决了沙漠中的水源危机，帮助村民和旅人。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+   {
+    "id": "european_001",
+    "title": "渔夫与魔鱼",
+    "author": "欧洲民间故事",
+    "category": "欧洲童话",
+    "level": 4,
+    "content": "从前有一位贫穷的渔夫，他每天出海捕鱼，生活非常辛苦。一天，他捕到了一条会说话的魔鱼，魔鱼说：'请放了我，我可以满足你三个愿望。'渔夫虽然心动，但只希望家人健康和村庄平安，魔鱼欣然答应，并带来好运。",
+    "englishTranslation": "Once there was a poor fisherman who fished every day. One day, he caught a talking magical fish. The fish said: 'Please let me go, and I can grant you three wishes.' The fisherman, though tempted, only wished for his family's health and the village's safety. The fish happily agreed and brought them luck.",
+    "storyType": "国外故事",
+    "origin": "欧洲民间故事",
+    "annotation": "关于善良与智慧的故事。",
+    "analysis": "告诉孩子们善良和知足比贪心更重要。",
+    "aiExplanation": "小朋友们，渔夫只希望家人和村庄平安，你们觉得有时不要贪心也很重要吗？",
+    "comprehensionQuestions": [
+      {"id": "cq_european001_1", "question": "渔夫捕到的是什么？", "type": "voice", "expectedKeywords": ["魔鱼","会说话"], "hint": "想想渔夫捕到的神奇动物", "order": 1},
+      {"id": "cq_european001_2", "question": "请画出渔夫和魔鱼的场景", "type": "drawing", "hint": "海边和渔夫的船", "order": 2}
+    ],
+    "characters": [
+      {"id": "char_fisherman", "name": "渔夫", "description": "善良勤劳的渔夫", "personality": "善良、勤劳、知足", "voiceType": "male", "dialogueTemplates": ["我只希望家人平安和村庄幸福！"], "greeting": "我是渔夫，我只希望家人幸福！"},
+      {"id": "char_magicfish", "name": "魔鱼", "description": "会说话的神奇鱼", "personality": "智慧、善意", "voiceType": "child", "dialogueTemplates": ["放了我，我可以满足你的愿望！"], "greeting": "我是魔鱼，我能帮助善良的人！"}
+    ],
+    "wordCards": [
+      {"id": "wc_european001_1", "word": "渔夫", "pinyin": "yú fū", "meaningCN": "以捕鱼为生的人", "meaningEN": "fisherman"},
+      {"id": "wc_european001_2", "word": "愿望", "pinyin": "yuàn wàng", "meaningCN": "希望实现的事情", "meaningEN": "wish"}
+    ],
+    "quiz": [
+      {"id": "q_european001_1", "question": "渔夫的愿望是什么？", "options": ["财富","家人健康和村庄平安","成为国王","魔鱼的金子"], "correctAnswer": 1, "explanation": "渔夫只希望家人健康和村庄平安。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "european_002",
+    "title": "聪明的磨坊主",
+    "author": "欧洲民间故事",
+    "category": "欧洲童话",
+    "level": 7,
+    "content": "从前有一位聪明的磨坊主，他靠磨面粉为生。有一天，国王宣布谁能解决城里一个复杂的谜题，就能获得丰厚奖励。磨坊主运用智慧解开谜题，不仅帮助国王，还得到了大家的尊敬。",
+    "englishTranslation": "Once there was a clever miller who made a living by grinding flour. One day, the king announced that whoever could solve a difficult puzzle in the city would get a great reward. The miller used his wisdom to solve the puzzle, helping the king and earning everyone's respect.",
+    "storyType": "国外故事",
+    "origin": "欧洲民间故事",
+    "annotation": "关于智慧与机智的故事。",
+    "analysis": "孩子们可以学习到智慧比蛮力更有价值。",
+    "aiExplanation": "小朋友们，磨坊主用智慧解决难题，你们觉得聪明有时比力量更重要吗？",
+    "comprehensionQuestions": [
+      {"id": "cq_european002_1", "question": "磨坊主用什么解决了问题？", "type": "voice", "expectedKeywords": ["智慧","思考"], "hint": "想想磨坊主如何赢得奖励", "order": 1},
+      {"id": "cq_european002_2", "question": "请画出磨坊主解谜的场景", "type": "drawing", "hint": "城堡、谜题、磨坊主", "order": 2}
+    ],
+    "characters": [
+      {"id": "char_miller", "name": "磨坊主", "description": "聪明勤劳的磨坊主人", "personality": "聪明、机智、善良", "voiceType": "male", "dialogueTemplates": ["我会用智慧解决问题！"], "greeting": "我是磨坊主，我喜欢用智慧面对挑战！"},
+      {"id": "char_king", "name": "国王", "description": "善良但需要解决难题的国王", "personality": "公正、聪明", "voiceType": "male", "dialogueTemplates": ["谁能解开谜题，就奖励你！"], "greeting": "我是国王，我喜欢聪明的人！"}
+    ],
+    "wordCards": [
+      {"id": "wc_european002_1", "word": "磨坊", "pinyin": "mó fáng", "meaningCN": "研磨谷物的地方", "meaningEN": "mill"},
+      {"id": "wc_european002_2", "word": "谜题", "pinyin": "mí tí", "meaningCN": "需要思考才能解决的问题", "meaningEN": "puzzle"}
+    ],
+    "quiz": [
+      {"id": "q_european002_1", "question": "磨坊主得到什么奖励？", "options": ["金钱","尊敬","土地","魔法"], "correctAnswer": 1, "explanation": "磨坊主不仅解决了谜题，还赢得了大家的尊敬。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  }
+  ,
+   {
+    "id": "european_003",
+    "title": "勇敢的小鞋匠",
+    "author": "欧洲民间故事",
+    "category": "欧洲童话",
+    "level": 4,
+    "content": "有一位年轻的小鞋匠，他非常勤劳，但总是穷困。有一天，他救了一只受伤的鹰。鹰为了报恩，带他飞到高山上找到失落的宝箱。小鞋匠用宝箱里的金币开了鞋店，生活从此变得富足，他依然保持勤劳与善良。",
+    "englishTranslation": "A young shoemaker was hardworking but always poor. One day, he saved an injured eagle. To repay him, the eagle took him to a high mountain to find a lost treasure chest. The shoemaker used the coins to open a shop, and his life became prosperous, while he remained diligent and kind.",
+    "storyType": "国外故事",
+    "origin": "欧洲民间故事",
+    "annotation": "关于勇气、善良与勤劳的故事。",
+    "analysis": "孩子们可以学习到善良、勇敢和勤劳的重要性。",
+    "aiExplanation": "小朋友们，小鞋匠救了鹰并得到了奖励，你们觉得帮助别人会带来好运吗？",
+    "comprehensionQuestions": [
+      {"id": "cq_european003_1", "question": "小鞋匠救了谁？", "type": "voice", "expectedKeywords": ["鹰","受伤"], "hint": "想想他帮助了什么动物", "order": 1},
+      {"id": "cq_european003_2", "question": "请画出小鞋匠和鹰找到宝箱的场景", "type": "drawing", "hint": "高山、宝箱、鹰", "order": 2}
+    ],
+    "characters": [
+      {"id": "char_shoemaker", "name": "小鞋匠", "description": "勤劳善良的年轻人", "personality": "勤劳、善良、勇敢", "voiceType": "child", "dialogueTemplates": ["我一定要救助受伤的动物！"], "greeting": "我是小鞋匠，我相信善良会有回报！"},
+      {"id": "char_eagle", "name": "鹰", "description": "会报恩的神奇鹰", "personality": "聪明、忠诚", "voiceType": "male", "dialogueTemplates": ["我会带你找到宝箱！"], "greeting": "我是鹰，我会帮助善良的人！"}
+    ],
+    "wordCards": [
+      {"id": "wc_european003_1", "word": "鞋匠", "pinyin": "xié jiàng", "meaningCN": "制作或修理鞋子的人", "meaningEN": "shoemaker"},
+      {"id": "wc_european003_2", "word": "宝箱", "pinyin": "bǎo xiāng", "meaningCN": "存放财宝的箱子", "meaningEN": "treasure chest"}
+    ],
+    "quiz": [
+      {"id": "q_european003_1", "question": "小鞋匠得到的财富来自哪里？", "options": ["国王","鹰带来的宝箱","银行","发明"], "correctAnswer": 1, "explanation": "小鞋匠救了鹰，鹰带他找到宝箱中的金币。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "european_004",
+    "title": "森林里的三只兄弟",
+    "author": "欧洲民间故事",
+    "category": "欧洲童话",
+    "level": 4,
+    "content": "三兄弟住在森林里，他们互相帮助，共同打猎、采集食物。有一天，他们遇到了一只受伤的魔狼，三兄弟用智慧和勇气救了它。魔狼为了感谢他们，教会了兄弟们识别森林中各种危险植物和动物的本领，三兄弟也保护了更多的动物。",
+    "englishTranslation": "Three brothers lived in the forest, helping each other with hunting and gathering. One day, they found an injured magical wolf. The brothers used wisdom and courage to save it. The wolf, to thank them, taught the brothers to identify dangerous plants and animals, and they also protected more forest creatures.",
+    "storyType": "国外故事",
+    "origin": "欧洲民间故事",
+    "annotation": "关于团结、智慧和善良的故事。",
+    "analysis": "孩子们可以学习互相帮助、勇敢和与自然和谐相处。",
+    "aiExplanation": "小朋友们，三兄弟救了魔狼，你们觉得团结合作可以解决困难吗？",
+    "comprehensionQuestions": [
+      {"id": "cq_european004_1", "question": "魔狼教了兄弟们什么？", "type": "voice", "expectedKeywords": ["识别危险植物","动物"], "hint": "想想兄弟们学到了什么技能", "order": 1},
+      {"id": "cq_european004_2", "question": "请画出三兄弟救魔狼的场景", "type": "drawing", "hint": "森林、兄弟、魔狼", "order": 2}
+    ],
+    "characters": [
+      {"id": "char_brothers", "name": "三兄弟", "description": "勇敢善良的兄弟", "personality": "团结、聪明、勇敢", "voiceType": "child", "dialogueTemplates": ["我们要互相帮助！"], "greeting": "我们是三兄弟，我们相信团结力量大！"},
+      {"id": "char_wolf", "name": "魔狼", "description": "会教人识别危险的神奇狼", "personality": "智慧、善良", "voiceType": "male", "dialogueTemplates": ["我教你们识别危险植物和动物！"], "greeting": "我是魔狼，我会保护善良的人！"}
+    ],
+    "wordCards": [
+      {"id": "wc_european004_1", "word": "森林", "pinyin": "sēn lín", "meaningCN": "有很多树木的地方", "meaningEN": "forest"},
+      {"id": "wc_european004_2", "word": "魔狼", "pinyin": "mó láng", "meaningCN": "神奇的狼", "meaningEN": "magical wolf"}
+    ],
+    "quiz": [
+      {"id": "q_european004_1", "question": "三兄弟住在哪里？", "options": ["村庄","森林","山洞","海边"], "correctAnswer": 1, "explanation": "三兄弟住在森林里，互相帮助生存。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  }
+  ,
+    {
+    "id": "european_005",
+    "title": "会说话的狐狸",
+    "author": "欧洲民间故事",
+    "category": "欧洲童话",
+    "level": 4,
+    "content": "从前有一只聪明的狐狸，它能和人类说话。它帮助一位善良的农夫抓住偷吃庄稼的坏兔子，并教农夫如何用智慧保护庄稼。最后，农夫和狐狸成了朋友，村庄的庄稼再也没有被破坏。",
+    "englishTranslation": "Once there was a clever fox that could talk to humans. It helped a kind farmer catch the rabbits who were eating his crops and taught him how to protect his farm wisely. In the end, the farmer and the fox became friends, and the village's crops were safe.",
+    "storyType": "国外故事",
+    "origin": "欧洲民间故事",
+    "annotation": "关于智慧、友谊和善良的故事。",
+    "analysis": "孩子们可以学习用智慧解决问题，也能理解友情的重要性。",
+    "aiExplanation": "小朋友们，狐狸用智慧帮助农夫，你们觉得聪明和善良一样重要吗？",
+    "comprehensionQuestions": [
+      {"id": "cq_european005_1", "question": "狐狸帮助农夫做了什么？", "type": "voice", "expectedKeywords": ["抓兔子","保护庄稼"], "hint": "想想狐狸帮助了农夫什么事情", "order": 1},
+      {"id": "cq_european005_2", "question": "请画出狐狸和农夫的场景", "type": "drawing", "hint": "农田、狐狸、农夫", "order": 2}
+    ],
+    "characters": [
+      {"id": "char_fox", "name": "狐狸", "description": "会说话的聪明狐狸", "personality": "聪明、机智、善良", "voiceType": "child", "dialogueTemplates": ["我可以教你保护庄稼的方法！"], "greeting": "我是狐狸，我喜欢帮助善良的人！"},
+      {"id": "char_farmer", "name": "农夫", "description": "善良的农民", "personality": "勤劳、善良", "voiceType": "male", "dialogueTemplates": ["谢谢你帮我抓坏兔子！"], "greeting": "我是农夫，我的庄稼需要保护！"}
+    ],
+    "wordCards": [
+      {"id": "wc_european005_1", "word": "庄稼", "pinyin": "zhuāng jià", "meaningCN": "农田里种植的作物", "meaningEN": "crops"},
+      {"id": "wc_european005_2", "word": "机智", "pinyin": "jī zhì", "meaningCN": "聪明、灵活应对问题", "meaningEN": "cleverness"}
+    ],
+    "quiz": [
+      {"id": "q_european005_1", "question": "狐狸是怎样的动物？", "options": ["懒惰","聪明","凶猛","胆小"], "correctAnswer": 1, "explanation": "狐狸非常聪明，能说话并帮助农夫解决问题。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "european_006",
+    "title": "三颗魔法豆",
+    "author": "欧洲民间故事",
+    "category": "欧洲童话",
+    "level": 4,
+    "content": "从前有一个贫穷的孩子，他在市场上得到三颗神奇的豆子。妈妈告诉他：'不要随意扔掉它们。'孩子不小心种下后，豆子迅速长成高耸入云的豆茎。他爬上去，发现云端有巨人和宝藏。孩子机智地带回宝藏，改善了全家人的生活。",
+    "englishTranslation": "Once there was a poor child who got three magical beans at the market. His mother warned: 'Don't throw them away.' He accidentally planted them, and the beans grew into a towering stalk. Climbing it, he discovered a giant and treasure in the clouds. Using his wit, he brought back the treasure and improved his family's life.",
+    "storyType": "国外故事",
+    "origin": "欧洲民间故事",
+    "annotation": "关于机智、勇气和智慧的故事。",
+    "analysis": "孩子们可以理解冒险、勇敢和善用智慧的重要性。",
+    "aiExplanation": "小朋友们，孩子爬上豆茎发现宝藏，你们觉得冒险需要智慧吗？",
+    "comprehensionQuestions": [
+      {"id": "cq_european006_1", "question": "孩子爬上豆茎发现了什么？", "type": "voice", "expectedKeywords": ["巨人","宝藏"], "hint": "想想他在云端看到了什么", "order": 1},
+      {"id": "cq_european006_2", "question": "请画出孩子爬豆茎的场景", "type": "drawing", "hint": "高耸的豆茎、云端、巨人", "order": 2}
+    ],
+    "characters": [
+      {"id": "char_child", "name": "孩子", "description": "勇敢善良的孩子", "personality": "勇敢、机智、善良", "voiceType": "child", "dialogueTemplates": ["我要去看看豆茎顶端有什么！"], "greeting": "我是孩子，我想看看世界的奇迹！"},
+      {"id": "char_giant", "name": "巨人", "description": "守护宝藏的巨人", "personality": "强大、威严", "voiceType": "male", "dialogueTemplates": ["谁敢进入我的宝藏？"], "greeting": "我是巨人，守护云端的宝藏！"}
+    ],
+    "wordCards": [
+      {"id": "wc_european006_1", "word": "豆茎", "pinyin": "dòu jīng", "meaningCN": "豆子长成的茎", "meaningEN": "bean stalk"},
+      {"id": "wc_european006_2", "word": "宝藏", "pinyin": "bǎo zàng", "meaningCN": "珍贵财物", "meaningEN": "treasure"}
+    ],
+    "quiz": [
+      {"id": "q_european006_1", "question": "孩子是怎么改善家庭生活的？", "options": ["用宝藏","努力工作","买房","魔法"], "correctAnswer": 0, "explanation": "孩子用云端宝藏改善了全家人的生活。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  }
+  ,
+    {
+    "id": "european_007",
+    "title": "勇敢的木匠",
+    "author": "欧洲民间故事",
+    "category": "欧洲童话",
+    "level": 4,
+    "content": "从前有一位年轻的木匠，他手艺精湛，但家境贫寒。有一天，村庄附近出现了一只捣乱的魔兽，木匠利用聪明才智制作了机关陷阱，将魔兽制服，保护了村庄。他因此被村民尊敬，生活也慢慢变得安定。",
+    "englishTranslation": "Once there was a young carpenter, skilled but poor. One day, a troublesome magical beast appeared near the village. The carpenter cleverly built a trap and subdued the beast, protecting the village. The villagers respected him, and his life gradually became stable.",
+    "storyType": "国外故事",
+    "origin": "欧洲民间故事",
+    "annotation": "关于智慧、勇气与勤劳的故事。",
+    "analysis": "孩子们可以学习到勇气和创造力解决问题的重要性。",
+    "aiExplanation": "小朋友们，木匠用聪明才智制服了魔兽，你们觉得智慧和勇敢一样重要吗？",
+    "comprehensionQuestions": [
+      {"id": "cq_european007_1", "question": "木匠是怎么保护村庄的？", "type": "voice", "expectedKeywords": ["机关陷阱","制服魔兽"], "hint": "想想他做了什么聪明的事", "order": 1},
+      {"id": "cq_european007_2", "question": "请画出木匠和魔兽的场景", "type": "drawing", "hint": "村庄、陷阱、魔兽", "order": 2}
+    ],
+    "characters": [
+      {"id": "char_carpenter", "name": "木匠", "description": "聪明勇敢的年轻木匠", "personality": "勇敢、聪明、勤劳", "voiceType": "male", "dialogueTemplates": ["我会保护村庄！"], "greeting": "我是木匠，我喜欢用智慧解决问题！"},
+      {"id": "char_beast", "name": "魔兽", "description": "捣乱的魔法生物", "personality": "调皮、威胁", "voiceType": "male", "dialogueTemplates": ["谁敢挡我？"], "greeting": "我是魔兽，小心我的力量！"}
+    ],
+    "wordCards": [
+      {"id": "wc_european007_1", "word": "木匠", "pinyin": "mù jiàng", "meaningCN": "制作木制物品的人", "meaningEN": "carpenter"},
+      {"id": "wc_european007_2", "word": "机关陷阱", "pinyin": "jī guān xiàn jǐng", "meaningCN": "用来捕捉或困住敌人的装置", "meaningEN": "mechanical trap"}
+    ],
+    "quiz": [
+      {"id": "q_european007_1", "question": "村民如何看待木匠？", "options": ["害怕","尊敬","嫉妒","忽视"], "correctAnswer": 1, "explanation": "木匠用智慧保护了村庄，村民因此尊敬他。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "european_008",
+    "title": "魔法帽子",
+    "author": "欧洲民间故事",
+    "category": "欧洲童话",
+    "level": 4,
+    "content": "有一个年轻人得到一顶魔法帽子，戴上它可以瞬间到达任何地方。他用帽子帮助村民完成难题和危险任务，但最终明白，真正的力量在于自己的智慧和努力，而不是魔法。于是，他摘下帽子，依然成为了村庄的英雄。",
+    "englishTranslation": "A young man received a magical hat that allowed him to instantly travel anywhere. He used it to help villagers with difficult and dangerous tasks. Eventually, he realized that true power comes from one's wisdom and effort, not magic. He took off the hat and still became the village hero.",
+    "storyType": "国外故事",
+    "origin": "欧洲民间故事",
+    "annotation": "关于智慧与责任的故事。",
+    "analysis": "孩子们可以理解，依靠自身智慧和努力比依赖魔法更重要。",
+    "aiExplanation": "小朋友们，魔法帽很厉害，但智慧和努力才是最重要的，你们觉得呢？",
+    "comprehensionQuestions": [
+      {"id": "cq_european008_1", "question": "魔法帽的功能是什么？", "type": "voice", "expectedKeywords": ["瞬间移动","到任何地方"], "hint": "想想魔法帽能做什么", "order": 1},
+      {"id": "cq_european008_2", "question": "请画出年轻人用帽子帮助村民的场景", "type": "drawing", "hint": "村庄、魔法帽、任务", "order": 2}
+    ],
+    "characters": [
+      {"id": "char_youngman", "name": "年轻人", "description": "聪明勇敢的年轻人", "personality": "聪明、勇敢、有责任心", "voiceType": "male", "dialogueTemplates": ["我可以帮助大家！"], "greeting": "我是年轻人，我相信智慧和努力的力量！"}
+    ],
+    "wordCards": [
+      {"id": "wc_european008_1", "word": "魔法", "pinyin": "mó fǎ", "meaningCN": "神奇的力量", "meaningEN": "magic"},
+      {"id": "wc_european008_2", "word": "瞬间", "pinyin": "shùn jiān", "meaningCN": "很短的时间", "meaningEN": "instant"}
+    ],
+    "quiz": [
+      {"id": "q_european008_1", "question": "年轻人最终依靠什么成为英雄？", "options": ["魔法帽","智慧和努力","运气","朋友帮助"], "correctAnswer": 1, "explanation": "最终他明白智慧和努力比魔法更重要。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "european_009",
+    "title": "会唱歌的小鸟",
+    "author": "欧洲民间故事",
+    "category": "欧洲童话",
+    "level": 4,
+    "content": "森林里住着一只会唱歌的小鸟，每天用歌声带给动物们快乐。一天，森林遭遇大火，小鸟用歌声引导大家逃生，并协助森林里的动物重建家园。小鸟教会大家勇敢面对困难，并用爱心互助。",
+    "englishTranslation": "In the forest lived a singing bird, bringing joy to the animals every day. One day, a fire broke out, and the bird guided everyone to safety with its song and helped rebuild homes. The bird taught courage and mutual help.",
+    "storyType": "国外故事",
+    "origin": "欧洲民间故事",
+    "annotation": "关于勇气、爱心和互助的故事。",
+    "analysis": "孩子们可以学会勇敢、善良以及团队合作的重要性。",
+    "aiExplanation": "小朋友们，小鸟用歌声救了大家，你们觉得爱心和勇气可以帮助别人吗？",
+    "comprehensionQuestions": [
+      {"id": "cq_european009_1", "question": "小鸟是如何帮助大家的？", "type": "voice", "expectedKeywords": ["歌声","引导逃生"], "hint": "想想小鸟做了什么", "order": 1},
+      {"id": "cq_european009_2", "question": "请画出森林火灾中的小鸟和动物们", "type": "drawing", "hint": "火灾、动物、小鸟", "order": 2}
+    ],
+    "characters": [
+      {"id": "char_bird", "name": "小鸟", "description": "会唱歌、善良的小鸟", "personality": "善良、勇敢、乐观", "voiceType": "child", "dialogueTemplates": ["跟着我的歌声逃生！"], "greeting": "我是小鸟，我喜欢用歌声帮助大家！"}
+    ],
+    "wordCards": [
+      {"id": "wc_european009_1", "word": "逃生", "pinyin": "táo shēng", "meaningCN": "从危险中安全离开", "meaningEN": "escape"},
+      {"id": "wc_european009_2", "word": "互助", "pinyin": "hù zhù", "meaningCN": "相互帮助", "meaningEN": "mutual help"}
+    ],
+    "quiz": [
+      {"id": "q_european009_1", "question": "小鸟教会大家什么？", "options": ["勇敢和爱心","唱歌技巧","躲猫猫","飞行"], "correctAnswer": 0, "explanation": "小鸟教会大家勇敢面对困难和互助。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "european_010",
+    "title": "会变形的老猫",
+    "author": "欧洲民间故事",
+    "category": "欧洲童话",
+    "level": 4,
+    "content": "有一只老猫拥有变形能力，它能变成不同动物帮助村民解决问题。一天，村庄遭遇洪水，老猫变成大鸟带村民躲避危险，并协助搬运物资重建家园。老猫教会大家智慧和团结的重要性。",
+    "englishTranslation": "An old cat had the power to shapeshift into different animals to help villagers. One day, when a flood hit the village, the cat became a large bird to guide villagers to safety and help carry supplies to rebuild. The cat taught the importance of wisdom and unity.",
+    "storyType": "国外故事",
+    "origin": "欧洲民间故事",
+    "annotation": "关于智慧、团结与互助的故事。",
+    "analysis": "孩子们可以学习团结协作和机智应对困难的重要性。",
+    "aiExplanation": "小朋友们，老猫变成大鸟救了大家，你们觉得团结和智慧有多重要呢？",
+    "comprehensionQuestions": [
+      {"id": "cq_european010_1", "question": "老猫变成了什么帮助村民？", "type": "voice", "expectedKeywords": ["大鸟","搬运物资"], "hint": "想想它是怎么帮大家的", "order": 1},
+      {"id": "cq_european010_2", "question": "请画出老猫救助村民的场景", "type": "drawing", "hint": "洪水、村民、大鸟", "order": 2}
+    ],
+    "characters": [
+      {"id": "char_oldcat", "name": "老猫", "description": "拥有变形能力的老猫", "personality": "智慧、善良、机智", "voiceType": "child", "dialogueTemplates": ["我可以变成大鸟帮大家！"], "greeting": "我是老猫，我喜欢用智慧帮助大家！"}
+    ],
+    "wordCards": [
+      {"id": "wc_european010_1", "word": "变形", "pinyin": "biàn xíng", "meaningCN": "改变形状或样子", "meaningEN": "shape-shift"},
+      {"id": "wc_european010_2", "word": "团结", "pinyin": "tuán jié", "meaningCN": "大家互相合作", "meaningEN": "unity"}
+    ],
+    "quiz": [
+      {"id": "q_european010_1", "question": "老猫教会大家什么？", "options": ["变形技能","团结和智慧","魔法使用","飞行技巧"], "correctAnswer": 1, "explanation": "老猫通过行动教会大家团结协作和智慧的重要性。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  }
+  ,
+   {
+    "id": "myth_001",
+    "title": "宙斯与勇敢的少年",
+    "author": "希腊神话改编",
+    "category": "神话改编",
+    "level": 5,
+    "content": "很久以前，有一个勇敢的少年，他梦想成为英雄。一天，他遇到了宙斯的化身，宙斯告诉他，只有心中充满勇气和善良的人才能完成伟大的任务。少年接受了宙斯的挑战，击败了恶龙，救了村庄，并学会了真正的勇气和责任。",
+    "englishTranslation": "Long ago, a brave boy dreamed of becoming a hero. One day, he met Zeus in disguise, who told him that only those with courage and kindness in their hearts could accomplish great tasks. The boy accepted Zeus's challenge, defeated an evil dragon, saved the village, and learned true courage and responsibility.",
+    "storyType": "国外故事",
+    "origin": "希腊神话",
+    "annotation": "关于勇气、善良与责任的故事。",
+    "analysis": "孩子们可以学习勇敢面对困难，并明白善良与责任的重要性。",
+    "aiExplanation": "小朋友们，少年击败了恶龙，你们觉得勇气和善良一样重要吗？",
+    "comprehensionQuestions": [
+      {"id": "cq_myth001_1", "question": "少年遇到谁的化身？", "type": "voice", "expectedKeywords": ["宙斯"], "hint": "想想希腊神话中的主神是谁", "order": 1},
+      {"id": "cq_myth001_2", "question": "请画出少年与恶龙的战斗场景", "type": "drawing", "hint": "恶龙、勇敢的少年、村庄", "order": 2}
+    ],
+    "characters": [
+      {"id": "char_boy", "name": "少年", "description": "勇敢善良的少年", "personality": "勇敢、善良、有责任心", "voiceType": "child", "dialogueTemplates": ["我一定要保护村庄！"], "greeting": "我是少年，我想成为英雄！"},
+      {"id": "char_zeus", "name": "宙斯", "description": "希腊神话中的主神", "personality": "威严、公正、智慧", "voiceType": "male", "dialogueTemplates": ["只有勇敢善良的人才能完成任务"], "greeting": "我是宙斯，我会考验勇敢的人！"}
+    ],
+    "wordCards": [
+      {"id": "wc_myth001_1", "word": "勇气", "pinyin": "yǒng qì", "meaningCN": "敢于面对困难的精神", "meaningEN": "courage"},
+      {"id": "wc_myth001_2", "word": "责任", "pinyin": "zé rèn", "meaningCN": "对自己和他人应尽的义务", "meaningEN": "responsibility"}
+    ],
+    "quiz": [
+      {"id": "q_myth001_1", "question": "少年最后做了什么？", "options": ["逃跑","击败恶龙","睡觉","找宝藏"], "correctAnswer": 1, "explanation": "少年击败了恶龙，救了村庄，完成了宙斯的考验。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "myth_002",
+    "title": "雅典娜与智慧的挑战",
+    "author": "希腊神话改编",
+    "category": "神话改编",
+    "level": 5,
+    "content": "有一个小女孩喜欢解谜和学习，她在森林里迷路时遇到了智慧女神雅典娜。雅典娜给了她三个谜题，女孩依靠聪明才智逐一解开，获得了一枚智慧的徽章，并从此变得更加聪慧勇敢，帮助村庄解决问题。",
+    "englishTranslation": "A little girl who loved puzzles and learning got lost in the forest and met Athena, the goddess of wisdom. Athena gave her three riddles, which the girl solved using her intelligence, earning a badge of wisdom and becoming cleverer and braver, helping her village.",
+    "storyType": "国外故事",
+    "origin": "希腊神话",
+    "annotation": "关于智慧、学习与勇敢的故事。",
+    "analysis": "孩子们可以学会运用智慧解决问题，并理解知识的重要性。",
+    "aiExplanation": "小朋友们，女孩解开了谜题获得智慧徽章，你们觉得智慧比力量更重要吗？",
+    "comprehensionQuestions": [
+      {"id": "cq_myth002_1", "question": "小女孩遇到了哪位神？", "type": "voice", "expectedKeywords": ["雅典娜"], "hint": "智慧女神是谁？", "order": 1},
+      {"id": "cq_myth002_2", "question": "请画出小女孩解谜的场景", "type": "drawing", "hint": "森林、谜题、徽章", "order": 2}
+    ],
+    "characters": [
+      {"id": "char_girl", "name": "小女孩", "description": "聪明勇敢的小女孩", "personality": "聪明、勇敢、好学", "voiceType": "child", "dialogueTemplates": ["我一定要解开谜题！"], "greeting": "我是小女孩，我喜欢解谜学习！"},
+      {"id": "char_athena", "name": "雅典娜", "description": "智慧女神", "personality": "智慧、公正、鼓励学习", "voiceType": "female", "dialogueTemplates": ["用智慧解决问题，你可以成功！"], "greeting": "我是雅典娜，我喜欢帮助聪明勇敢的人！"}
+    ],
+    "wordCards": [
+      {"id": "wc_myth002_1", "word": "智慧", "pinyin": "zhì huì", "meaningCN": "聪明和知识", "meaningEN": "wisdom"},
+      {"id": "wc_myth002_2", "word": "谜题", "pinyin": "mí tí", "meaningCN": "需要思考才能解开的难题", "meaningEN": "riddle"}
+    ],
+    "quiz": [
+      {"id": "q_myth002_1", "question": "小女孩获得了什么？", "options": ["魔法棒","智慧徽章","宝藏","皇冠"], "correctAnswer": 1, "explanation": "女孩成功解谜，获得智慧徽章。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  }
+  ,
+   {
+    "id": "myth_003",
+    "title": "赫拉克勒斯与魔法石",
+    "author": "希腊神话改编",
+    "category": "神话改编",
+    "level": 5,
+    "content": "赫拉克勒斯还是个小男孩时，发现了一块闪着奇异光芒的魔法石。他拿着魔法石帮助村民搬运沉重的物品，还用石头的力量阻止了河水泛滥。赫拉克勒斯明白了力量不仅在于魔法石，更在于勇敢和善良的心。",
+    "englishTranslation": "When Hercules was a young boy, he discovered a magical stone that glowed strangely. He used it to help villagers carry heavy objects and stop the river from flooding. Hercules realized that true power lies not in the magical stone, but in courage and kindness.",
+    "storyType": "国外故事",
+    "origin": "希腊神话",
+    "annotation": "关于力量、勇气与善良的故事。",
+    "analysis": "孩子们可以理解力量的真正来源是勇敢和善良，而非外物。",
+    "aiExplanation": "小朋友们，赫拉克勒斯用魔法石帮助村民，你们觉得勇敢比魔法更重要吗？",
+    "comprehensionQuestions": [
+      {"id": "cq_myth003_1", "question": "赫拉克勒斯发现了什么？", "type": "voice", "expectedKeywords": ["魔法石"], "hint": "闪着光的神奇东西是什么？", "order": 1},
+      {"id": "cq_myth003_2", "question": "请画出赫拉克勒斯使用魔法石帮助村民的场景", "type": "drawing", "hint": "村庄、河水、魔法石", "order": 2}
+    ],
+    "characters": [
+      {"id": "char_hercules", "name": "赫拉克勒斯", "description": "勇敢善良的小男孩", "personality": "勇敢、善良、有责任心", "voiceType": "male", "dialogueTemplates": ["我一定要保护大家！"], "greeting": "我是赫拉克勒斯，我喜欢帮助别人！"}
+    ],
+    "wordCards": [
+      {"id": "wc_myth003_1", "word": "力量", "pinyin": "lì liàng", "meaningCN": "身体或精神上的能力", "meaningEN": "strength"},
+      {"id": "wc_myth003_2", "word": "善良", "pinyin": "shàn liáng", "meaningCN": "心地好，有爱心", "meaningEN": "kindness"}
+    ],
+    "quiz": [
+      {"id": "q_myth003_1", "question": "赫拉克勒斯帮助村民做了什么？", "options": ["建房子","搬运物品、阻止洪水","做饭","唱歌"], "correctAnswer": 1, "explanation": "赫拉克勒斯用魔法石搬运物品并阻止河水泛滥。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "myth_004",
+    "title": "波塞冬与勇敢的渔夫",
+    "author": "希腊神话改编",
+    "category": "神话改编",
+    "level": 5,
+    "content": "有一个小渔夫，每天出海捕鱼，他热爱大海，也尊重大海的神灵波塞冬。一天，大海掀起了巨浪，渔夫用智慧操控船只，并祈求波塞冬的帮助。最终，他平安归来，也学会了敬畏自然和勇敢面对危险。",
+    "englishTranslation": "A young fisherman loved the sea and respected its god, Poseidon. One day, huge waves rose, and the fisherman used his wisdom to steer the boat while praying to Poseidon. He returned safely and learned to respect nature and face danger bravely.",
+    "storyType": "国外故事",
+    "origin": "希腊神话",
+    "annotation": "关于勇气、智慧与敬畏自然的故事。",
+    "analysis": "孩子们可以学习敬畏自然，并明白智慧和勇气能够帮助他们应对危险。",
+    "aiExplanation": "小朋友们，渔夫面对巨浪平安归来，你们觉得敬畏自然和勇敢重要吗？",
+    "comprehensionQuestions": [
+      {"id": "cq_myth004_1", "question": "渔夫遇到了什么困难？", "type": "voice", "expectedKeywords": ["巨浪","危险"], "hint": "大海发生了什么？", "order": 1},
+      {"id": "cq_myth004_2", "question": "请画出渔夫在海上与巨浪搏斗的场景", "type": "drawing", "hint": "海浪、渔夫、小船", "order": 2}
+    ],
+    "characters": [
+      {"id": "char_fisherman", "name": "渔夫", "description": "勇敢善良的小渔夫", "personality": "勇敢、聪明、有敬畏心", "voiceType": "male", "dialogueTemplates": ["我要安全回到村庄！"], "greeting": "我是渔夫，我喜欢大海，也尊重大海的力量！"},
+      {"id": "char_poseidon", "name": "波塞冬", "description": "大海之神", "personality": "威严、神秘、公正", "voiceType": "male", "dialogueTemplates": ["尊重大海，勇敢面对危险！"], "greeting": "我是波塞冬，我掌管海洋和风浪！"}
+    ],
+    "wordCards": [
+      {"id": "wc_myth004_1", "word": "敬畏", "pinyin": "jìng wèi", "meaningCN": "心中尊重并有些害怕", "meaningEN": "reverence"},
+      {"id": "wc_myth004_2", "word": "巨浪", "pinyin": "jù làng", "meaningCN": "很大的海浪", "meaningEN": "giant waves"}
+    ],
+    "quiz": [
+      {"id": "q_myth004_1", "question": "渔夫最后学到了什么？", "options": ["敬畏自然和勇敢","捕鱼技巧","做船工","魔法技能"], "correctAnswer": 0, "explanation": "渔夫通过经历明白了敬畏自然和勇敢的重要性。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "myth_005",
+    "title": "阿波罗与音乐的力量",
+    "author": "希腊神话改编",
+    "category": "神话改编",
+    "level": 5,
+    "content": "太阳神阿波罗拥有美妙的音乐力量。一个小男孩学习音乐时遇到困难，阿波罗出现，教他用心感受音乐。男孩经过努力，能够用音乐治愈村民的忧愁和悲伤，明白了音乐不仅是技巧，更是表达情感和关爱他人的桥梁。",
+    "englishTranslation": "Apollo, the sun god, possessed wonderful musical powers. A boy learning music faced difficulties, and Apollo appeared to teach him to feel the music with his heart. Through effort, the boy could use music to heal villagers' sadness and realized that music is not just skill, but a way to express emotion and care.",
+    "storyType": "国外故事",
+    "origin": "希腊神话",
+    "annotation": "关于音乐、努力与关爱的故事。",
+    "analysis": "孩子们可以学习努力练习，并理解音乐能够表达情感和帮助别人。",
+    "aiExplanation": "小朋友们，男孩用音乐治愈了村民，你们觉得音乐能带来快乐和关爱吗？",
+    "comprehensionQuestions": [
+      {"id": "cq_myth005_1", "question": "阿波罗教男孩什么？", "type": "voice", "expectedKeywords": ["感受音乐","用心"], "hint": "音乐不仅是技巧，还能做什么？", "order": 1},
+      {"id": "cq_myth005_2", "question": "请画出男孩用音乐治愈村民的场景", "type": "drawing", "hint": "村民、音乐、男孩", "order": 2}
+    ],
+    "characters": [
+      {"id": "char_boy2", "name": "小男孩", "description": "学习音乐的孩子", "personality": "努力、善良、有爱心", "voiceType": "child", "dialogueTemplates": ["我要学会用音乐帮助大家！"], "greeting": "我是小男孩，我喜欢音乐，也希望用音乐帮助别人！"},
+      {"id": "char_apollo", "name": "阿波罗", "description": "太阳神与音乐之神", "personality": "温柔、智慧、鼓励", "voiceType": "male", "dialogueTemplates": ["用心感受音乐，你会做到的！"], "greeting": "我是阿波罗，我喜欢用音乐帮助大家！"}
+    ],
+    "wordCards": [
+      {"id": "wc_myth005_1", "word": "音乐", "pinyin": "yīn yuè", "meaningCN": "通过声音表达情感的艺术", "meaningEN": "music"},
+      {"id": "wc_myth005_2", "word": "治愈", "pinyin": "zhì yù", "meaningCN": "让身体或心灵恢复健康或快乐", "meaningEN": "heal"}
+    ],
+    "quiz": [
+      {"id": "q_myth005_1", "question": "男孩最后能够做什么？", "options": ["治愈村民的忧愁","飞行","施展魔法","种树"], "correctAnswer": 0, "explanation": "男孩通过努力学会用音乐治愈村民的忧愁和悲伤。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  }
+  ,
+   {
+    "id": "myth_006",
+    "title": "赫尔墨斯与勇敢的小信使",
+    "author": "希腊神话改编",
+    "category": "神话改编",
+    "level": 5,
+    "content": "一个小男孩被选为村庄的小信使，需要把重要信息送到邻村。途中遇到大风暴和野兽，他想起赫尔墨斯教导的智慧与勇气，巧妙地避开危险，并顺利完成任务，赢得了大家的赞赏。",
+    "englishTranslation": "A young boy was chosen as the village messenger to deliver important information to the neighboring village. Facing storms and wild animals, he remembered Hermes’ teachings of wisdom and courage, cleverly avoided danger, and successfully completed his task, earning everyone's admiration.",
+    "storyType": "国外故事",
+    "origin": "希腊神话",
+    "annotation": "关于智慧、勇气和责任的故事。",
+    "analysis": "孩子们可以学习遇到困难时运用智慧和勇气，并理解责任的重要性。",
+    "aiExplanation": "小朋友们，小男孩完成了送信任务，你们觉得智慧和勇气哪一个更重要呢？",
+    "comprehensionQuestions": [
+      {"id": "cq_myth006_1", "question": "小男孩的任务是什么？", "type": "voice", "expectedKeywords": ["送信","信息"], "hint": "他要把什么带到邻村？", "order": 1},
+      {"id": "cq_myth006_2", "question": "请画出小男孩在风暴中送信的场景", "type": "drawing", "hint": "风暴、野兽、小男孩", "order": 2}
+    ],
+    "characters": [
+      {"id": "char_boy3", "name": "小男孩", "description": "勇敢聪明的村庄小信使", "personality": "勇敢、机智、负责", "voiceType": "child", "dialogueTemplates": ["我要把信送到邻村！"], "greeting": "我是小信使，我会勇敢完成任务！"},
+      {"id": "char_hermes", "name": "赫尔墨斯", "description": "神话中的智慧与速度之神", "personality": "机智、敏捷、鼓励", "voiceType": "male", "dialogueTemplates": ["智慧和勇气会帮助你！"], "greeting": "我是赫尔墨斯，我教导勇敢与智慧！"}
+    ],
+    "wordCards": [
+      {"id": "wc_myth006_1", "word": "勇气", "pinyin": "yǒng qì", "meaningCN": "敢于面对困难的精神", "meaningEN": "courage"},
+      {"id": "wc_myth006_2", "word": "责任", "pinyin": "zé rèn", "meaningCN": "对自己和他人应尽的义务", "meaningEN": "responsibility"}
+    ],
+    "quiz": [
+      {"id": "q_myth006_1", "question": "小男孩最后成功了吗？", "options": ["是","否"], "correctAnswer": 0, "explanation": "他成功完成任务，赢得了大家的赞赏。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "myth_007",
+    "title": "波吕斐摩斯与聪明的牧羊人",
+    "author": "希腊神话改编",
+    "category": "神话改编",
+    "level": 5,
+    "content": "一位聪明的牧羊人发现独眼巨人波吕斐摩斯正威胁村民的羊群。他巧妙地引导巨人喝醉，然后用智慧逃脱，将羊群安全带回村庄。大家都学会了智慧胜过蛮力的重要性。",
+    "englishTranslation": "A clever shepherd discovered that the one-eyed giant Polyphemus threatened the village's sheep. Using cleverness, he made the giant drunk and escaped, bringing the sheep safely back. Everyone learned that wisdom surpasses brute strength.",
+    "storyType": "国外故事",
+    "origin": "希腊神话",
+    "annotation": "关于智慧、勇气与机智的故事。",
+    "analysis": "孩子们可以学到遇到困难时，用智慧比用蛮力更有效。",
+    "aiExplanation": "小朋友们，牧羊人用智慧战胜了巨人，你们觉得智慧比蛮力更重要吗？",
+    "comprehensionQuestions": [
+      {"id": "cq_myth007_1", "question": "牧羊人是如何救羊群的？", "type": "voice", "expectedKeywords": ["智慧","引导巨人"], "hint": "他用什么方法对付巨人？", "order": 1},
+      {"id": "cq_myth007_2", "question": "请画出牧羊人智斗巨人的场景", "type": "drawing", "hint": "巨人、羊群、牧羊人", "order": 2}
+    ],
+    "characters": [
+      {"id": "char_shepherd", "name": "牧羊人", "description": "聪明机智的牧羊人", "personality": "聪明、勇敢、机智", "voiceType": "child", "dialogueTemplates": ["我要保护羊群！"], "greeting": "我是牧羊人，我会用智慧保护大家！"},
+      {"id": "char_polyphemus", "name": "波吕斐摩斯", "description": "独眼巨人", "personality": "蛮力强大、容易被愚弄", "voiceType": "male", "dialogueTemplates": ["谁敢偷我的羊？"], "greeting": "我是波吕斐摩斯，小心不要惹我！"}
+    ],
+    "wordCards": [
+      {"id": "wc_myth007_1", "word": "智慧", "pinyin": "zhì huì", "meaningCN": "聪明和知识", "meaningEN": "wisdom"},
+      {"id": "wc_myth007_2", "word": "蛮力", "pinyin": "mán lì", "meaningCN": "粗暴的力量", "meaningEN": "brute force"}
+    ],
+    "quiz": [
+      {"id": "q_myth007_1", "question": "牧羊人用什么战胜巨人？", "options": ["蛮力","智慧","魔法","武器"], "correctAnswer": 1, "explanation": "牧羊人用智慧智胜独眼巨人。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "myth_008",
+    "title": "珀尔修斯与蛇发女妖",
+    "author": "希腊神话改编",
+    "category": "神话改编",
+    "level": 5,
+    "content": "珀尔修斯接到任务，要击败可怕的蛇发女妖美杜莎。他聪明地利用盾牌反射光线，使美杜莎石化，然后将她的头带回去，保护了村庄。他明白了勇气加智慧才能完成艰巨任务。",
+    "englishTranslation": "Perseus was tasked to defeat the terrifying Gorgon Medusa. He cleverly used a shield to reflect light, turning Medusa into stone, then brought her head back to protect the village. He realized courage combined with wisdom could accomplish difficult tasks.",
+    "storyType": "国外故事",
+    "origin": "希腊神话",
+    "annotation": "关于勇气、智慧与机智的故事。",
+    "analysis": "孩子们可以学习勇敢面对恐惧，并用智慧解决问题。",
+    "aiExplanation": "小朋友们，珀尔修斯利用智慧战胜美杜莎，你们觉得勇气和智慧哪个更重要？",
+    "comprehensionQuestions": [
+      {"id": "cq_myth008_1", "question": "珀尔修斯用什么击败美杜莎？", "type": "voice", "expectedKeywords": ["盾牌","反射光"], "hint": "他是怎么石化美杜莎的？", "order": 1},
+      {"id": "cq_myth008_2", "question": "请画出珀尔修斯与美杜莎战斗的场景", "type": "drawing", "hint": "盾牌、石化、美杜莎", "order": 2}
+    ],
+    "characters": [
+      {"id": "char_perseus", "name": "珀尔修斯", "description": "勇敢聪明的英雄", "personality": "勇敢、聪明、有责任心", "voiceType": "male", "dialogueTemplates": ["我必须保护大家！"], "greeting": "我是珀尔修斯，我会勇敢面对任何危险！"},
+      {"id": "char_medusa", "name": "美杜莎", "description": "蛇发女妖", "personality": "危险、可怕", "voiceType": "female", "dialogueTemplates": ["谁敢靠近我？"], "greeting": "我是美杜莎，任何人看我都会石化！"}
+    ],
+    "wordCards": [
+      {"id": "wc_myth008_1", "word": "勇气", "pinyin": "yǒng qì", "meaningCN": "敢于面对困难和危险的精神", "meaningEN": "courage"},
+      {"id": "wc_myth008_2", "word": "机智", "pinyin": "jī zhì", "meaningCN": "聪明灵活的应对方法", "meaningEN": "cleverness"}
+    ],
+    "quiz": [
+      {"id": "q_myth008_1", "question": "珀尔修斯完成任务后保护了谁？", "options": ["自己","村庄","朋友","神庙"], "correctAnswer": 1, "explanation": "珀尔修斯用智慧战胜美杜莎，保护了村庄。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  }
+  ,
+   {
+    "id": "myth_009",
+    "title": "阿尔忒弥斯与月光小鹿",
+    "author": "希腊神话改编",
+    "category": "神话改编",
+    "level": 5,
+    "content": "月光下，一只小鹿迷路了，阿尔忒弥斯出现，引导它回到森林深处。小女孩跟随小鹿，学会了观察自然、尊重生命，并明白了保护弱小的重要性。",
+    "englishTranslation": "Under the moonlight, a young deer got lost, and Artemis appeared, guiding it back into the forest. A little girl followed the deer, learning to observe nature, respect life, and understand the importance of protecting the weak.",
+    "storyType": "国外故事",
+    "origin": "希腊神话",
+    "annotation": "关于自然、生命与善良的故事。",
+    "analysis": "孩子们可以学习尊重自然、保护生命，并理解善良的意义。",
+    "aiExplanation": "小朋友们，小女孩学会保护小鹿，你们觉得为什么要保护弱小的生命？",
+    "comprehensionQuestions": [
+      {"id": "cq_myth009_1", "question": "谁帮助小鹿回家？", "type": "voice", "expectedKeywords": ["阿尔忒弥斯"], "hint": "掌管狩猎和森林的女神是谁？", "order": 1},
+      {"id": "cq_myth009_2", "question": "请画出小鹿回森林的场景", "type": "drawing", "hint": "森林、小鹿、月光", "order": 2}
+    ],
+    "characters": [
+      {"id": "char_girl2", "name": "小女孩", "description": "善良、好奇的孩子", "personality": "善良、细心、勇敢", "voiceType": "child", "dialogueTemplates": ["我要保护小鹿！"], "greeting": "我是小女孩，我喜欢大自然，想保护小动物！"},
+      {"id": "char_artemis", "name": "阿尔忒弥斯", "description": "月亮与狩猎女神", "personality": "善良、敏锐、守护动物", "voiceType": "female", "dialogueTemplates": ["跟随月光，小鹿会安全回家"], "greeting": "我是阿尔忒弥斯，我守护森林和小动物！"}
+    ],
+    "wordCards": [
+      {"id": "wc_myth009_1", "word": "保护", "pinyin": "bǎo hù", "meaningCN": "照顾和防止伤害", "meaningEN": "protect"},
+      {"id": "wc_myth009_2", "word": "生命", "pinyin": "shēng mìng", "meaningCN": "生存的状态和活力", "meaningEN": "life"}
+    ],
+    "quiz": [
+      {"id": "q_myth009_1", "question": "小女孩学会了什么？", "options": ["保护弱小生命","骑马","唱歌","游泳"], "correctAnswer": 0, "explanation": "小女孩学会了观察自然并保护弱小生命。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "myth_010",
+    "title": "狄俄尼索斯与欢庆节",
+    "author": "希腊神话改编",
+    "category": "神话改编",
+    "level": 5,
+    "content": "葡萄酒与欢乐之神狄俄尼索斯每年都会带领村民庆祝丰收节。一群孩子第一次参加节日，他们学习到分享和合作的重要性。通过舞蹈和歌唱，大家感受到团结和快乐的力量。",
+    "englishTranslation": "Dionysus, the god of wine and joy, led villagers in celebrating the harvest festival every year. A group of children attended the festival for the first time and learned the importance of sharing and cooperation. Through dancing and singing, they felt the power of unity and joy.",
+    "storyType": "国外故事",
+    "origin": "希腊神话",
+    "annotation": "关于分享、合作与团结的故事。",
+    "analysis": "孩子们可以理解节日不仅是庆祝丰收，也能学会分享、合作和享受团体活动。",
+    "aiExplanation": "小朋友们，孩子们在丰收节学会了分享和合作，你们觉得快乐可以通过什么方式分享给别人呢？",
+    "comprehensionQuestions": [
+      {"id": "cq_myth010_1", "question": "狄俄尼索斯带领村民做什么？", "type": "voice", "expectedKeywords": ["庆祝","丰收节"], "hint": "节日里大家在做什么？", "order": 1},
+      {"id": "cq_myth010_2", "question": "请画出孩子们在丰收节上跳舞的场景", "type": "drawing", "hint": "舞蹈、歌唱、节日氛围", "order": 2}
+    ],
+    "characters": [
+      {"id": "char_children", "name": "孩子们", "description": "初次参加丰收节的孩子们", "personality": "好奇、热情、合作", "voiceType": "child", "dialogueTemplates": ["我们一起跳舞！", "大家一起唱歌吧！"], "greeting": "我们是孩子们，我们喜欢庆祝丰收节！"},
+      {"id": "char_dionysus", "name": "狄俄尼索斯", "description": "葡萄酒与欢乐之神", "personality": "快乐、热情、慷慨", "voiceType": "male", "dialogueTemplates": ["大家一起庆祝丰收吧！"], "greeting": "我是狄俄尼索斯，带来欢乐与丰收！"}
+    ],
+    "wordCards": [
+      {"id": "wc_myth010_1", "word": "合作", "pinyin": "hé zuò", "meaningCN": "一起努力完成任务", "meaningEN": "cooperation"},
+      {"id": "wc_myth010_2", "word": "团结", "pinyin": "tuán jié", "meaningCN": "互相支持，共同努力", "meaningEN": "unity"}
+    ],
+    "quiz": [
+      {"id": "q_myth010_1", "question": "孩子们在节日里学会了什么？", "options": ["跳舞和唱歌","分享和合作","做手工","玩游戏"], "correctAnswer": 1, "explanation": "孩子们学会了分享和合作的重要性。"}
+    ],
+    "isFavorite": false,
+    "regions": ["international"],
+    "ageCategory": "elementary"
+  }
+]
