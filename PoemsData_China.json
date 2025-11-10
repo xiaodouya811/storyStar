@@ -1,0 +1,887 @@
+[
+  {
+    "id": "1",
+    "title": "静夜思",
+    "author": "李白",
+    "category": "唐诗",
+    "level": 4,
+    "content": "床前明月光，疑是地上霜。举头望明月，低头思故乡。",
+    "pinyin": "chuáng qián míng yuè guāng, yí shì dì shàng shuāng. jǔ tóu wàng míng yuè, dī tóu sī gù xiāng.",
+    "englishTranslation": "Before my bed a pool of light, I wonder if it's frost aground. Looking up, I find the moon bright; bowing, in homesickness I'm drowned.",
+    "annotation": "这首诗描写了诗人在寂静的月夜思念家乡的感受。床前的月光让诗人误以为是地上的霜，抬头看见明月，不禁想起了远方的故乡。",
+    "rhyme": "光、霜、乡押韵，音韵和谐。",
+    "analysis": "这是李白的代表作之一，语言简洁明了，情感真挚。通过对比月光与霜的相似，表达了诗人深深的思乡之情。",
+    "aiExplanation": "小朋友们，这首诗是大诗人李白写的。他在一个安静的夜晚，看到月亮很亮很亮，就像地上铺了一层白霜一样。他抬头看月亮，就想起了自己的家乡和家人。你们有没有想过爸爸妈妈呢？",
+    "wordCards": [
+      {
+        "id": "wc1-1",
+        "word": "明月",
+        "pinyin": "míng yuè",
+        "meaningCN": "明亮的月亮",
+        "meaningEN": "bright moon"
+      },
+      {
+        "id": "wc1-2",
+        "word": "故乡",
+        "pinyin": "gù xiāng",
+        "meaningCN": "家乡，出生的地方",
+        "meaningEN": "hometown"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q1-1",
+        "question": "诗人把床前的月光比作什么？",
+        "options": [
+          "雪花",
+          "霜",
+          "水",
+          "云"
+        ],
+        "correctAnswer": 1,
+        "explanation": "诗人说'疑是地上霜'，把月光比作了霜。"
+      }
+    ],
+    "isFavorite": false,
+    "regions": [
+      "china"
+    ],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "2",
+    "title": "春晓",
+    "author": "孟浩然",
+    "category": "唐诗",
+    "level": 3,
+    "content": "春眠不觉晓，处处闻啼鸟。夜来风雨声，花落知多少。",
+    "pinyin": "chūn mián bù jué xiǎo, chù chù wén tí niǎo. yè lái fēng yǔ shēng, huā luò zhī duō shǎo.",
+    "englishTranslation": "This spring morning in bed I'm lying, not to awake till birds are crying. After one night of wind and showers, how many are the fallen flowers?",
+    "annotation": "诗人描写春天早晨醒来时的感受，听到鸟儿啼叫，想起昨夜的风雨，担心花儿凋落。",
+    "rhyme": "晓、鸟、少押韵。",
+    "analysis": "这首诗表现了诗人对春天的喜爱和对自然的关注，语言清新自然，意境优美。",
+    "aiExplanation": "春天来了！诗人睡得很香，直到听见小鸟叽叽喳喳地叫才醒来。他想起昨天晚上刮风下雨，担心美丽的花儿被风雨打落了。小朋友们，你们喜欢春天吗？",
+    "wordCards": [
+      {
+        "id": "wc2-1",
+        "word": "啼鸟",
+        "pinyin": "tí niǎo",
+        "meaningCN": "鸟儿叫声",
+        "meaningEN": "bird singing"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q2-1",
+        "question": "诗人是被什么声音吵醒的？",
+        "options": [
+          "风雨声",
+          "鸟叫声",
+          "雷声",
+          "人声"
+        ],
+        "correctAnswer": 1,
+        "explanation": "诗中说'处处闻啼鸟'，是鸟儿的叫声。"
+      }
+    ],
+    "isFavorite": false,
+    "regions": [
+      "china"
+    ],
+    "ageCategory": "preschool"
+  },
+  {
+    "id": "3",
+    "title": "登鹳雀楼",
+    "author": "王之涣",
+    "category": "唐诗",
+    "level": 6,
+    "content": "白日依山尽，黄河入海流。欲穷千里目，更上一层楼。",
+    "pinyin": "bái rì yī shān jìn, huáng hé rù hǎi liú. yù qióng qiān lǐ mù, gèng shàng yī céng lóu.",
+    "englishTranslation": "The sun beyond the mountain glows, the Yellow River seawards flows. You can enjoy a grander sight by climbing to a greater height.",
+    "annotation": "诗人登上鹳雀楼，看到夕阳西下，黄河东流的壮丽景象，感悟到要想看得更远，就要站得更高。",
+    "rhyme": "尽、流、楼押韵。",
+    "analysis": "这首诗蕴含着深刻的哲理，告诉我们要想取得更大的成就，就要不断努力向上。",
+    "aiExplanation": "诗人爬到很高很高的楼上，看到太阳落到山后面，黄河流向大海。他想看得更远，就要爬得更高。这告诉我们，想要学到更多知识，就要更加努力！",
+    "wordCards": [
+      {
+        "id": "wc3-1",
+        "word": "千里目",
+        "pinyin": "qiān lǐ mù",
+        "meaningCN": "看得很远很远",
+        "meaningEN": "see far away"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q3-1",
+        "question": "要想看得更远，应该怎么做？",
+        "options": [
+          "往下走",
+          "站在原地",
+          "爬得更高",
+          "闭上眼睛"
+        ],
+        "correctAnswer": 2,
+        "explanation": "诗中说'更上一层楼'，要爬得更高才能看得更远。"
+      }
+    ],
+    "isFavorite": false,
+    "regions": [
+      "china"
+    ],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "4",
+    "title": "人之初",
+    "author": "王应麟",
+    "category": "三字经",
+    "level": 2,
+    "content": "人之初，性本善。性相近，习相远。苟不教，性乃迁。教之道，贵以专。",
+    "pinyin": "rén zhī chū, xìng běn shán. xìng xiāng jìn, xí xiāng yuǎn. gǒu bù jiào, xìng nǎi qiān. jiào zhī dào, guì yǐ zhuān.",
+    "englishTranslation": "At birth, human nature is good. By nature, people are similar; through practice, they become different. Without education, nature will change. The way of education values focus.",
+    "annotation": "人在刚出生时，本性都是善良的。人的本性相近，但由于后天的学习环境不同，性情也就有了好坏的差别。",
+    "rhyme": "善、远、迁、专押韵。",
+    "analysis": "这段话强调了教育的重要性，说明人的品格是可以通过教育来改变的。",
+    "isFavorite": false,
+    "regions": [
+      "china"
+    ],
+    "ageCategory": "preschool"
+  },
+  {
+    "id": "5",
+    "title": "咏鹅",
+    "author": "骆宾王",
+    "category": "唐诗",
+    "level": 4,
+    "content": "鹅，鹅，鹅，曲项向天歌。白毛浮绿水，红掌拨清波。",
+    "pinyin": "é, é, é, qū xiàng xiàng tiān gē. bái máo fú lǜ shuǐ, hóng zhǎng bō qīng bō.",
+    "englishTranslation": "Goose, goose, goose, with curved neck singing to the sky. White feathers float on green water, red feet paddle clear waves.",
+    "annotation": "这首诗描写了白鹅的美丽形象：弯曲着脖子向天歌唱，白色的羽毛漂浮在绿水上，红色的脚掌拨动着清波。",
+    "rhyme": "歌、波押韵。",
+    "analysis": "这是骆宾王七岁时所作，语言生动形象，充满童趣，展现了白鹅的优美姿态。",
+    "aiExplanation": "小朋友们，这首诗写的是可爱的大白鹅！它伸着长长的脖子向天空唱歌，白白的羽毛在绿色的水面上游来游去，红红的脚掌像小船桨一样划水。你们见过大白鹅吗？",
+    "wordCards": [
+      {
+        "id": "wc5-1",
+        "word": "曲项",
+        "pinyin": "qū xiàng",
+        "meaningCN": "弯曲的脖子",
+        "meaningEN": "curved neck"
+      },
+      {
+        "id": "wc5-2",
+        "word": "红掌",
+        "pinyin": "hóng zhǎng",
+        "meaningCN": "红色的脚掌",
+        "meaningEN": "red feet"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q5-1",
+        "question": "白鹅的脚掌是什么颜色？",
+        "options": [
+          "白色",
+          "黑色",
+          "红色",
+          "黄色"
+        ],
+        "correctAnswer": 2,
+        "explanation": "诗中说'红掌拨清波'，白鹅的脚掌是红色的。"
+      }
+    ],
+    "isFavorite": false,
+    "regions": [
+      "china"
+    ],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "6",
+    "title": "悯农",
+    "author": "李绅",
+    "category": "唐诗",
+    "level": 5,
+    "content": "锄禾日当午，汗滴禾下土。谁知盘中餐，粒粒皆辛苦。",
+    "pinyin": "chú hé rì dāng wǔ, hàn dī hé xià tǔ. shuí zhī pán zhōng cān, lì lì jiē xīn kǔ.",
+    "englishTranslation": "Farmers weeding at noon, sweat dripping on the soil. Who knows that every grain on the plate comes from hard work.",
+    "annotation": "这首诗描写了农民在烈日下辛勤劳作的情景，告诉我们要珍惜粮食。",
+    "rhyme": "午、土、苦押韵。",
+    "analysis": "诗人通过对农民劳作的描写，表达了对劳动人民的同情和对珍惜粮食的呼吁。",
+    "aiExplanation": "小朋友们，这首诗告诉我们农民伯伯种粮食很辛苦。他们在大太阳底下锄草，汗水滴到土地里。我们吃的每一粒米饭都是农民伯伯辛苦种出来的，所以要珍惜粮食，不能浪费哦！",
+    "wordCards": [
+      {
+        "id": "wc6-1",
+        "word": "锄禾",
+        "pinyin": "chú hé",
+        "meaningCN": "用锄头给庄稼除草",
+        "meaningEN": "weeding crops"
+      },
+      {
+        "id": "wc6-2",
+        "word": "辛苦",
+        "pinyin": "xīn kǔ",
+        "meaningCN": "很累很难",
+        "meaningEN": "hard work"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q6-1",
+        "question": "这首诗告诉我们要做什么？",
+        "options": [
+          "多睡觉",
+          "珍惜粮食",
+          "不吃饭",
+          "玩游戏"
+        ],
+        "correctAnswer": 1,
+        "explanation": "诗中说'粒粒皆辛苦'，告诉我们要珍惜粮食。"
+      }
+    ],
+    "isFavorite": false,
+    "regions": [
+      "china"
+    ],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "7",
+    "title": "草",
+    "author": "白居易",
+    "category": "唐诗",
+    "level": 5,
+    "content": "离离原上草，一岁一枯荣。野火烧不尽，春风吹又生。",
+    "pinyin": "lí lí yuán shàng cǎo, yī suì yī kū róng. yě huǒ shāo bù jìn, chūn fēng chuī yòu shēng.",
+    "englishTranslation": "The grass grows thick on the ancient plain, each year it withers and grows again. Wildfire cannot burn it all, it grows again when spring winds call.",
+    "annotation": "这首诗赞美了小草顽强的生命力，即使被野火烧过，春天来了又会重新生长。",
+    "rhyme": "草、荣、生押韵。",
+    "analysis": "诗人通过对小草的描写，表现了生命的顽强和不屈不挠的精神。",
+    "aiExplanation": "小朋友们，这首诗写的是小草！小草每年都会枯萎又重新长出来。就算被火烧了，春天一到，春风一吹，小草又会长出来。小草的生命力真顽强！我们也要像小草一样坚强！",
+    "wordCards": [
+      {
+        "id": "wc7-1",
+        "word": "枯荣",
+        "pinyin": "kū róng",
+        "meaningCN": "枯萎和繁荣",
+        "meaningEN": "wither and flourish"
+      },
+      {
+        "id": "wc7-2",
+        "word": "野火",
+        "pinyin": "yě huǒ",
+        "meaningCN": "野外的火",
+        "meaningEN": "wildfire"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q7-1",
+        "question": "小草被野火烧了会怎样？",
+        "options": [
+          "永远不长了",
+          "春天又会长出来",
+          "变成树",
+          "飞走了"
+        ],
+        "correctAnswer": 1,
+        "explanation": "诗中说'春风吹又生'，春天小草又会重新长出来。"
+      }
+    ],
+    "isFavorite": false,
+    "regions": [
+      "china"
+    ],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "8",
+    "title": "山村咏怀",
+    "author": "邵雍",
+    "category": "宋词",
+    "level": 1,
+    "content": "一去二三里，烟村四五家。亭台六七座，八九十枝花。",
+    "pinyin": "yī qù èr sān lǐ, yān cūn sì wǔ jiā. tíng tái liù qī zuò, bā jiǔ shí zhī huā.",
+    "englishTranslation": "One goes two or three miles, to a village of four or five houses. Six or seven pavilions stand, with eighty or ninety flowers.",
+    "annotation": "这首诗用数字描写了山村的美丽景色，从一到十，朗朗上口。",
+    "rhyme": "里、家、花押韵。",
+    "analysis": "这是一首数字诗，巧妙地运用了从一到十的数字，描绘了一幅美丽的山村图画。",
+    "aiExplanation": "小朋友们，这首诗很有趣！它用数字1到10来写山村的景色。走了二三里路，看到四五户人家，六七座亭台，还有好多好多美丽的花儿。我们一起数数看！",
+    "wordCards": [
+      {
+        "id": "wc8-1",
+        "word": "烟村",
+        "pinyin": "yān cūn",
+        "meaningCN": "有炊烟的村庄",
+        "meaningEN": "village with smoke"
+      },
+      {
+        "id": "wc8-2",
+        "word": "亭台",
+        "pinyin": "tíng tái",
+        "meaningCN": "小亭子和台子",
+        "meaningEN": "pavilions"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q8-1",
+        "question": "这首诗用了哪些数字？",
+        "options": [
+          "1到5",
+          "1到10",
+          "5到10",
+          "只有1和2"
+        ],
+        "correctAnswer": 1,
+        "explanation": "诗中从'一去二三里'到'八九十枝花'，用了1到10的数字。"
+      }
+    ],
+    "isFavorite": false,
+    "regions": [
+      "china"
+    ],
+    "ageCategory": "preschool"
+  },
+  {
+    "id": "9",
+    "title": "江南",
+    "author": "汉乐府",
+    "category": "诗",
+    "level": 2,
+    "content": "江南可采莲，莲叶何田田。鱼戏莲叶间，鱼戏莲叶东，鱼戏莲叶西，鱼戏莲叶南，鱼戏莲叶北。",
+    "pinyin": "jiāng nán kě cǎi lián, lián yè hé tián tián. yú xì lián yè jiān, yú xì lián yè dōng, yú xì lián yè xī, yú xì lián yè nán, yú xì lián yè běi.",
+    "englishTranslation": "In the south we can pick lotus, how lush the lotus leaves are. Fish play among the lotus leaves, east and west, south and north.",
+    "annotation": "这首诗描写了江南采莲的美丽景色，鱼儿在莲叶间快乐地游戏。",
+    "rhyme": "莲、田押韵。",
+    "analysis": "这是一首汉代乐府诗，语言简洁明快，充满了江南水乡的诗情画意。",
+    "aiExplanation": "小朋友们，江南是个很美的地方！那里有很多荷花池，荷叶长得又大又绿。小鱼儿在荷叶下面游来游去，东游游，西游游，南游游，北游游，玩得可开心了！",
+    "wordCards": [
+      {
+        "id": "wc9-1",
+        "word": "采莲",
+        "pinyin": "cǎi lián",
+        "meaningCN": "摘荷花",
+        "meaningEN": "pick lotus"
+      },
+      {
+        "id": "wc9-2",
+        "word": "田田",
+        "pinyin": "tián tián",
+        "meaningCN": "茂盛的样子",
+        "meaningEN": "lush and dense"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q9-1",
+        "question": "小鱼在哪里游戏？",
+        "options": [
+          "树上",
+          "天空中",
+          "莲叶间",
+          "房子里"
+        ],
+        "correctAnswer": 2,
+        "explanation": "诗中说'鱼戏莲叶间'，小鱼在莲叶间游戏。"
+      }
+    ],
+    "isFavorite": false,
+    "regions": [
+      "china"
+    ],
+    "ageCategory": "preschool"
+  },
+  {
+    "id": "10",
+    "title": "画",
+    "author": "王维",
+    "category": "唐诗",
+    "level": 3,
+    "content": "远看山有色，近听水无声。春去花还在，人来鸟不惊。",
+    "pinyin": "yuǎn kàn shān yǒu sè, jìn tīng shuǐ wú shēng. chūn qù huā hái zài, rén lái niǎo bù jīng.",
+    "englishTranslation": "From afar the mountain has color, up close the water makes no sound. Spring has gone but flowers remain, people come but birds aren't startled.",
+    "annotation": "这首诗描写的是一幅画，画中的山水花鸟都是静止的，所以有这些奇妙的现象。",
+    "rhyme": "色、声、惊押韵。",
+    "analysis": "这是一首题画诗，通过对画中景物的描写，表现了绘画艺术的特点。",
+    "aiExplanation": "小朋友们，这首诗写的是一幅画！画上的山很漂亮，但是水不会发出声音。春天过去了，但是画上的花还在那里。人走过来，画上的小鸟也不会飞走。因为这些都是画出来的呀！",
+    "wordCards": [
+      {
+        "id": "wc10-1",
+        "word": "无声",
+        "pinyin": "wú shēng",
+        "meaningCN": "没有声音",
+        "meaningEN": "no sound"
+      },
+      {
+        "id": "wc10-2",
+        "word": "不惊",
+        "pinyin": "bù jīng",
+        "meaningCN": "不害怕",
+        "meaningEN": "not startled"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q10-1",
+        "question": "为什么水没有声音？",
+        "options": [
+          "水干了",
+          "这是一幅画",
+          "水太少",
+          "水结冰了"
+        ],
+        "correctAnswer": 1,
+        "explanation": "这首诗写的是画，画上的水当然没有声音。"
+      }
+    ],
+    "isFavorite": false,
+    "regions": [
+      "china"
+    ],
+    "ageCategory": "preschool"
+  },
+  {
+    "id": "11",
+    "title": "望庐山瀑布",
+    "author": "李白",
+    "category": "唐诗",
+    "level": 7,
+    "content": "日照香炉生紫烟，遥望瀑布挂前川。飞流直下三千尺，疑是银河落九天。",
+    "pinyin": "rì zhào xiāng lú shēng zǐ yān, yáo wàng pù bù guà qián chuān. fēi liú zhí xià sān qiān chǐ, yí shì yín hé luò jiǔ tiān.",
+    "englishTranslation": "The sun shines on Incense Burner Peak producing purple mist, from afar I see the waterfall hanging like a river. The torrent plunges straight down three thousand feet, as if the Milky Way were falling from the ninth heaven.",
+    "annotation": "诗人描写了庐山瀑布的壮观景象，用夸张的手法表现了瀑布的雄伟。",
+    "rhyme": "烟、川、天押韵。",
+    "analysis": "这首诗运用了丰富的想象和夸张的手法，把瀑布比作银河，表现了大自然的壮美。",
+    "aiExplanation": "小朋友们，李白看到了一个超级大的瀑布！太阳照在山上，山顶冒着紫色的雾气。瀑布从很高很高的地方流下来，就像天上的银河掉到地上一样！真是太壮观了！",
+    "wordCards": [
+      {
+        "id": "wc11-1",
+        "word": "瀑布",
+        "pinyin": "pù bù",
+        "meaningCN": "从高处流下的水",
+        "meaningEN": "waterfall"
+      },
+      {
+        "id": "wc11-2",
+        "word": "银河",
+        "pinyin": "yín hé",
+        "meaningCN": "天上的星河",
+        "meaningEN": "Milky Way"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q11-1",
+        "question": "诗人把瀑布比作什么？",
+        "options": [
+          "白云",
+          "银河",
+          "彩虹",
+          "雪花"
+        ],
+        "correctAnswer": 1,
+        "explanation": "诗中说'疑是银河落九天'，把瀑布比作银河。"
+      }
+    ],
+    "isFavorite": false,
+    "regions": [
+      "china"
+    ],
+    "ageCategory": "intermediate"
+  },
+  {
+    "id": "12",
+    "title": "早发白帝城",
+    "author": "李白",
+    "category": "唐诗",
+    "level": 8,
+    "content": "朝辞白帝彩云间，千里江陵一日还。两岸猿声啼不住，轻舟已过万重山。",
+    "pinyin": "zhāo cí bái dì cǎi yún jiān, qiān lǐ jiāng líng yī rì huán. liǎng àn yuán shēng tí bù zhù, qīng zhōu yǐ guò wàn chóng shān.",
+    "englishTranslation": "At dawn I bid farewell to White Emperor City amid colorful clouds, a thousand li to Jiangling, returning in one day. Ape cries from both banks never cease, my light boat has passed ten thousand mountains.",
+    "annotation": "诗人描写了乘船顺流而下的快速和愉悦心情。",
+    "rhyme": "间、还、山押韵。",
+    "analysis": "这首诗表现了诗人轻松愉快的心情和对祖国山河的热爱。",
+    "aiExplanation": "李白坐着小船顺着江水往下游，船走得好快好快！两岸的猴子一直在叫，但是船已经过了好多好多座山了。李白心情特别好，觉得旅行真有趣！",
+    "wordCards": [
+      {
+        "id": "wc12-1",
+        "word": "轻舟",
+        "pinyin": "qīng zhōu",
+        "meaningCN": "轻快的小船",
+        "meaningEN": "light boat"
+      },
+      {
+        "id": "wc12-2",
+        "word": "万重山",
+        "pinyin": "wàn chóng shān",
+        "meaningCN": "很多很多座山",
+        "meaningEN": "countless mountains"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q12-1",
+        "question": "诗人的心情怎么样？",
+        "options": [
+          "很伤心",
+          "很生气",
+          "很开心",
+          "很害怕"
+        ],
+        "correctAnswer": 2,
+        "explanation": "从诗的轻快节奏可以看出诗人心情很愉快。"
+      }
+    ],
+    "isFavorite": false,
+    "regions": [
+      "china"
+    ],
+    "ageCategory": "intermediate"
+  }
+  ,
+   {
+    "id": "13",
+    "title": "九月九日忆山东兄弟",
+    "author": "王维",
+    "category": "唐诗",
+    "level": 5,
+    "content": "独在异乡为异客，每逢佳节倍思亲。遥知兄弟登高处，遍插茱萸少一人。",
+    "pinyin": "dú zài yì xiāng wéi yì kè, měi féng jiā jié bèi sī qīn. yáo zhī xiōng dì dēng gāo chù, biàn chā zhū yú shǎo yī rén.",
+    "englishTranslation": "Alone in a foreign land, I am a stranger, at every festive day my thoughts of kin double. I know my brothers climb the heights, with cornel twigs adorned, but one is missing.",
+    "annotation": "诗人身处异乡，重阳节时特别思念远方的兄弟，遥想兄弟们登高插茱萸，自己却不能同去。",
+    "rhyme": "客、亲、人押韵。",
+    "analysis": "表达了诗人对家人深深的思念之情，同时表现了重阳节登高的习俗。",
+    "aiExplanation": "小朋友们，王维在外地工作，不能回家过节。他想念自己的兄弟们，想象他们在高高的山上插着茱萸玩耍，可自己不能去。你们有没想过远方的朋友或家人呢？",
+    "wordCards": [
+      {
+        "id": "wc13-1",
+        "word": "异乡",
+        "pinyin": "yì xiāng",
+        "meaningCN": "不熟悉的地方，外地",
+        "meaningEN": "foreign land"
+      },
+      {
+        "id": "wc13-2",
+        "word": "茱萸",
+        "pinyin": "zhū yú",
+        "meaningCN": "一种植物，重阳节时用来避邪",
+        "meaningEN": "cornel plant"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q13-1",
+        "question": "诗人为什么觉得孤单？",
+        "options": [
+          "他在家里",
+          "他在外地",
+          "他生病了",
+          "他吵架了"
+        ],
+        "correctAnswer": 1,
+        "explanation": "诗中说'独在异乡为异客'，说明诗人在外地。"
+      }
+    ],
+    "isFavorite": false,
+    "regions": ["china"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "14",
+    "title": "塞下曲",
+    "author": "卢纶",
+    "category": "唐诗",
+    "level": 6,
+    "content": "月黑雁飞高，单于夜遁逃。欲将轻骑逐，大雪满弓刀。",
+    "pinyin": "yuè hēi yàn fēi gāo, chán yú yè dùn táo. yù jiāng qīng qí zhú, dà xuě mǎn gōng dāo.",
+    "englishTranslation": "Moon dark, wild geese fly high, the enemy chief flees at night. I wish to chase with light cavalry, heavy snow covers bow and blade.",
+    "annotation": "描写边塞战士夜间追击敌人的场景，突出了紧张、冷峻的氛围。",
+    "rhyme": "高、逃、刀押韵。",
+    "analysis": "用简洁有力的语言描写战争场面，展现边塞生活的艰苦与将士的英勇。",
+    "aiExplanation": "小朋友们，这首诗写的是士兵在寒冷的夜晚追赶敌人。月亮很暗，天很冷，雪覆盖了弓箭和刀剑。诗人告诉我们士兵很勇敢也很辛苦。",
+    "wordCards": [
+      {
+        "id": "wc14-1",
+        "word": "单于",
+        "pinyin": "chán yú",
+        "meaningCN": "古代匈奴首领",
+        "meaningEN": "Xiongnu chief"
+      },
+      {
+        "id": "wc14-2",
+        "word": "轻骑",
+        "pinyin": "qīng qí",
+        "meaningCN": "轻装骑兵",
+        "meaningEN": "light cavalry"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q14-1",
+        "question": "诗中的士兵在追赶谁？",
+        "options": ["朋友", "敌人", "家人", "小动物"],
+        "correctAnswer": 1,
+        "explanation": "诗中说'单于夜遁逃'，说明士兵在追敌人。"
+      }
+    ],
+    "isFavorite": false,
+    "regions": ["china"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "15",
+    "title": "登岳阳楼",
+    "author": "杜甫",
+    "category": "唐诗",
+    "level": 7,
+    "content": "昔闻洞庭水，今上岳阳楼。吴楚东南坼，乾坤日夜浮。亲朋无一字，老病有孤舟。戎马关山北，凭轩涕泗流。",
+    "pinyin": "xī wén dòng tíng shuǐ, jīn shàng yuè yáng lóu. wú chǔ dōng nán chè, qián kūn rì yè fú. qīn péng wú yī zì, lǎo bìng yǒu gū zhōu. róng mǎ guān shān běi, píng xuān tì sì liú.",
+    "englishTranslation": "Once heard of Dongting Lake, today I climb Yueyang Tower. Wu and Chu split southeast, heaven and earth float day and night. No word from friends and kin, old and sick, I have a lonely boat. Horses and soldiers to the north, leaning on the railing, tears flow.",
+    "annotation": "描写诗人登岳阳楼远望洞庭湖及周围景象的感受，同时流露孤独和忧国忧民之情。",
+    "rhyme": "楼、浮、舟、流押韵。",
+    "analysis": "通过景物描写和个人情感结合，体现了诗人胸怀宽广及忧国忧民的情怀。",
+    "aiExplanation": "小朋友们，杜甫站在高楼上，看远处的湖和山，想到远方的朋友没消息，自己又年纪大了、身体不好，心里很孤单。诗人也在担心国家的事情。",
+    "wordCards": [
+      {
+        "id": "wc15-1",
+        "word": "洞庭",
+        "pinyin": "dòng tíng",
+        "meaningCN": "湖南洞庭湖",
+        "meaningEN": "Dongting Lake"
+      },
+      {
+        "id": "wc15-2",
+        "word": "戎马",
+        "pinyin": "róng mǎ",
+        "meaningCN": "军队",
+        "meaningEN": "army"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q15-1",
+        "question": "诗人登楼时有什么感受？",
+        "options": ["开心", "孤独", "生气", "困倦"],
+        "correctAnswer": 1,
+        "explanation": "诗中提到'老病有孤舟，凭轩涕泗流'，表达孤独之情。"
+      }
+    ],
+    "isFavorite": false,
+    "regions": ["china"],
+    "ageCategory": "intermediate"
+  },
+  {
+    "id": "16",
+    "title": "枫桥夜泊",
+    "author": "张继",
+    "category": "唐诗",
+    "level": 6,
+    "content": "月落乌啼霜满天，江枫渔火对愁眠。姑苏城外寒山寺，夜半钟声到客船。",
+    "pinyin": "yuè luò wū tí shuāng mǎn tiān, jiāng fēng yú huǒ duì chóu mián. gū sū chéng wài hán shān sì, yè bàn zhōng shēng dào kè chuán.",
+    "englishTranslation": "Moon sets, crows cry, frost fills the sky; river maples, fishing lights, sad sleep for travelers. Outside Suzhou city, Cold Mountain Temple, midnight bell reaches the guest boat.",
+    "annotation": "描写秋夜江上泊船的景象，表现旅人孤寂、惆怅的心情。",
+    "rhyme": "天、眠、船押韵。",
+    "analysis": "通过景物描写与人物心境结合，营造出寂静、冷清的意境。",
+    "aiExplanation": "小朋友们，张继写了一天晚上在江上停船的情景。月亮落下，乌鸦叫，空气里满是霜。船上的人睡不安稳，还能听到寺庙的钟声。诗人把夜晚的景色和自己的心情写得很美。",
+    "wordCards": [
+      {
+        "id": "wc16-1",
+        "word": "寒山寺",
+        "pinyin": "hán shān sì",
+        "meaningCN": "苏州著名寺庙",
+        "meaningEN": "Cold Mountain Temple"
+      },
+      {
+        "id": "wc16-2",
+        "word": "渔火",
+        "pinyin": "yú huǒ",
+        "meaningCN": "渔民的火光",
+        "meaningEN": "fisherman's light"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q16-1",
+        "question": "诗人夜晚听到了什么？",
+        "options": ["风声", "钟声", "鸟叫", "雷声"],
+        "correctAnswer": 1,
+        "explanation": "诗中说'夜半钟声到客船'，说明听到了钟声。"
+      }
+    ],
+    "isFavorite": false,
+    "regions": ["china"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "17",
+    "title": "江雪",
+    "author": "柳宗元",
+    "category": "唐诗",
+    "level": 7,
+    "content": "千山鸟飞绝，万径人踪灭。孤舟蓑笠翁，独钓寒江雪。",
+    "pinyin": "qiān shān niǎo fēi jué, wàn jìng rén zōng miè. gū zhōu suō lì wēng, dú diào hán jiāng xuě.",
+    "englishTranslation": "Over a thousand mountains, no birds fly; on myriad paths, no human tracks. A lone boat, an old man in straw raincoat, fishing alone in cold river snow.",
+    "annotation": "描写雪天江上孤独渔翁的景象，表现出宁静、孤寂和坚毅。",
+    "rhyme": "绝、灭、雪押韵。",
+    "analysis": "通过对景物和人物的刻画，体现了诗人的孤高与坚韧。",
+    "aiExplanation": "小朋友们，这首诗写的是一个老人，在大雪天独自坐在小船上钓鱼。周围山很高，鸟都飞走了，路上没人。他很孤单，但也很勇敢。",
+    "wordCards": [
+      {
+        "id": "wc17-1",
+        "word": "蓑笠",
+        "pinyin": "suō lì",
+        "meaningCN": "雨衣和斗笠",
+        "meaningEN": "straw raincoat and hat"
+      },
+      {
+        "id": "wc17-2",
+        "word": "寒江",
+        "pinyin": "hán jiāng",
+        "meaningCN": "寒冷的江水",
+        "meaningEN": "cold river"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q17-1",
+        "question": "渔翁在什么天气钓鱼？",
+        "options": ["晴天", "雨天", "大雪天", "雾天"],
+        "correctAnswer": 2,
+        "explanation": "诗中说'独钓寒江雪'，是在大雪天钓鱼。"
+      }
+    ],
+    "isFavorite": false,
+    "regions": ["china"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "18",
+    "title": "题西林壁",
+    "author": "苏轼",
+    "category": "宋诗",
+    "level": 5,
+    "content": "横看成岭侧成峰，远近高低各不同。不识庐山真面目，只缘身在此山中。",
+    "pinyin": "héng kàn chéng lǐng cè chéng fēng, yuǎn jìn gāo dī gè bù tóng. bù shí lú shān zhēn miàn mù, zhǐ yuán shēn zài cǐ shān zhōng.",
+    "englishTranslation": "From horizontal view, ridges appear; from the side, peaks show. Near or far, high or low, all different. Cannot recognize Lushan's true face, because we are within the mountain.",
+    "annotation": "通过不同角度看山的景象，表达事物真相往往因视角不同而难以完全认识的道理。",
+    "rhyme": "峰、同、众、中押韵。",
+    "analysis": "诗中哲理深刻，告诉我们认识事物需要跳出局限，多角度观察。",
+    "aiExplanation": "小朋友们，苏轼说我们看山的时候，从不同角度看到的样子不同。因为我们在山里，所以看不到整座山的真面目。这告诉我们，有些事情需要换个角度才能看清楚哦。",
+    "wordCards": [
+      {
+        "id": "wc18-1",
+        "word": "横看",
+        "pinyin": "héng kàn",
+        "meaningCN": "从横的方向看",
+        "meaningEN": "view horizontally"
+      },
+      {
+        "id": "wc18-2",
+        "word": "真面目",
+        "pinyin": "zhēn miàn mù",
+        "meaningCN": "真实面貌",
+        "meaningEN": "true appearance"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q18-1",
+        "question": "为什么看不到庐山的真面目？",
+        "options": ["山太高", "山太远", "身在山中", "天气不好"],
+        "correctAnswer": 2,
+        "explanation": "诗中说'只缘身在此山中'，因为身在山中所以看不到全貌。"
+      }
+    ],
+    "isFavorite": false,
+    "regions": ["china"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "19",
+    "title": "渔歌子",
+    "author": "张志和",
+    "category": "唐诗",
+    "level": 4,
+    "content": "西塞山前白鹭飞，桃花流水鳜鱼肥。青箬笠，绿蓑衣，斜风细雨不须归。",
+    "pinyin": "xī sài shān qián bái lù fēi, táo huā liú shuǐ guì yú féi. qīng ruò lì, lǜ suō yī, xié fēng xì yǔ bù xū guī.",
+    "englishTranslation": "In front of Xisai Mountain, egrets fly; peach blossom waters, fish grow fat. Blue bamboo hat, green straw coat, in slanting wind and fine rain, no need to return.",
+    "annotation": "描写渔民生活的闲适景象，表达悠闲自在的心情。",
+    "rhyme": "飞、肥、归押韵。",
+    "analysis": "用生动的景物描写营造闲适、宁静的意境，反映渔民的生活情趣。",
+    "aiExplanation": "小朋友们，诗里写的是渔民的生活。他们戴着蓝色的帽子，穿着绿色的雨衣，在小雨中划船捕鱼，周围有飞翔的白鹭和盛开的桃花，生活很悠闲。",
+    "wordCards": [
+      {
+        "id": "wc19-1",
+        "word": "白鹭",
+        "pinyin": "bái lù",
+        "meaningCN": "一种白色的鸟",
+        "meaningEN": "white egret"
+      },
+      {
+        "id": "wc19-2",
+        "word": "鳜鱼",
+        "pinyin": "guì yú",
+        "meaningCN": "一种淡水鱼",
+        "meaningEN": "mandarin fish"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q19-1",
+        "question": "诗中的渔民为什么不回家？",
+        "options": ["下雨了", "风大", "斜风细雨，不必回家", "鱼不够"],
+        "correctAnswer": 2,
+        "explanation": "诗中说'斜风细雨不须归'，说明在这种天气下可以继续悠闲捕鱼。"
+      }
+    ],
+    "isFavorite": false,
+    "regions": ["china"],
+    "ageCategory": "elementary"
+  },
+  {
+    "id": "20",
+    "title": "赋得古原草送别",
+    "author": "白居易",
+    "category": "唐诗",
+    "level": 6,
+    "content": "离离原上草，一岁一枯荣。野火烧不尽，春风吹又生。远芳侵古道，晴翠接荒城。又送王孙去，萋萋满别情。",
+    "pinyin": "lí lí yuán shàng cǎo, yī suì yī kū róng. yě huǒ shāo bù jìn, chūn fēng chuī yòu shēng. yuǎn fāng qīn gǔ dào, qíng cuì jiē huāng chéng. yòu sòng wáng sūn qù, qī qī mǎn bié qíng.",
+    "englishTranslation": "Grass thick on the ancient plain, withers and grows each year. Wildfires cannot destroy it, spring wind makes it grow again. Distant fragrance invades old roads, green reaches ruined city. Again we send a young friend off, abundant grass reflects parting sorrow.",
+    "annotation": "写古原草的顽强生命力，借景抒情，表达送别之情。",
+    "rhyme": "荣、生、城、情押韵。",
+    "analysis": "通过草的枯荣，映射人生离别之情，意境深远，情感真挚。",
+    "aiExplanation": "小朋友们，这首诗写的是古原上的草，每年枯萎又重新生长。诗人送朋友离开，看到满地青草，感到依依不舍。就像我们和好朋友分别时的心情。",
+    "wordCards": [
+      {
+        "id": "wc20-1",
+        "word": "别情",
+        "pinyin": "bié qíng",
+        "meaningCN": "离别的感情",
+        "meaningEN": "parting feelings"
+      },
+      {
+        "id": "wc20-2",
+        "word": "古道",
+        "pinyin": "gǔ dào",
+        "meaningCN": "古老的道路",
+        "meaningEN": "ancient road"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "q20-1",
+        "question": "诗人送别朋友时用什么比喻感情？",
+        "options": ["古树", "古原草", "河流", "风"],
+        "correctAnswer": 1,
+        "explanation": "诗中借'古原草'的枯荣表达送别朋友时的依依不舍。"
+      }
+    ],
+    "isFavorite": false,
+    "regions": ["china"],
+    "ageCategory": "intermediate"
+  }
+]
