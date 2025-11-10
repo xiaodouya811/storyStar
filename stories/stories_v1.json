@@ -1,1 +1,48 @@
-
+{
+  "stories": [
+    {
+      "story_id": "story_001",
+      "title": { "zh": "静夜思", "en": "Quiet Night Thoughts" },
+      "author": { "zh": "李白", "en": "Li Bai" },
+      "category": ["古诗", "儿童"],
+      "language": "zh",
+      "modules": [
+        {
+          "type": "wordCards",
+          "items": [
+            { "word": { "zh": "明月", "en": "bright moon" }, "pinyin": "míng yuè", "meaning": { "zh": "明亮的月亮", "en": "bright moon" } },
+            { "word": { "zh": "霜", "en": "frost" }, "pinyin": "shuāng", "meaning": { "zh": "霜", "en": "frost" } }
+          ]
+        },
+        {
+          "type": "quiz",
+          "questions": [
+            {
+              "question": { "zh": "“明月”指的是什么？", "en": "What does 'bright moon' refer to?" },
+              "options": [
+                { "text": { "zh": "太阳", "en": "Sun" }, "correct": false },
+                { "text": { "zh": "月亮", "en": "Moon" }, "correct": true }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "reading",
+          "text": { "zh": "床前明月光，疑是地上霜。举头望明月，低头思故乡。", "en": "Before my bed, the moonlight glistens, I suspect it is frost on the ground. I look up at the moon, then lower my head and think of home." }
+        },
+        {
+          "type": "dialogue",
+          "characters": ["李白", "月亮"],
+          "lines": [
+            { "speaker": "李白", "text": { "zh": "明月几时有？", "en": "When will the bright moon appear?" } },
+            { "speaker": "月亮", "text": { "zh": "把酒问青天。", "en": "I ask the sky with my cup of wine." } }
+          ]
+        },
+        {
+          "type": "aiExplanation",
+          "text": { "zh": "这首诗表达了作者对家乡的思念之情。", "en": "This poem expresses the author's longing for his hometown." }
+        }
+      ]
+    }
+  ]
+}
