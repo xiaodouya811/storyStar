@@ -2,7 +2,7 @@
   "stories": [
     {
       "story_id": "story_001",
-      "title": { "zh": "静夜思1", "en": "Quiet Night Thoughts" },
+      "title": { "zh": "静夜思", "en": "Quiet Night Thoughts" },
       "author": { "zh": "李白", "en": "Li Bai" },
       "category": ["古诗", "儿童"],
       "language": "zh",
@@ -43,6 +43,243 @@
           "text": { "zh": "这首诗表达了作者对家乡的思念之情。", "en": "This poem expresses the author's longing for his hometown." }
         }
       ]
+    },
+    {
+      "story_id": "2",
+      "title": { "zh": "春晓", "en": "Spring Morning" },
+      "author": { "zh": "孟浩然", "en": "Meng Haoran" },
+      "category": ["唐诗"],
+      "language": "zh",
+      "modules": [
+        {
+          "type": "reading",
+          "text": {
+            "zh": "春眠不觉晓，处处闻啼鸟。夜来风雨声，花落知多少。",
+            "en": "This spring morning in bed I'm lying, not to awake till birds are crying. After one night of wind and showers, how many are the fallen flowers?"
+          }
+        },
+        {
+          "type": "wordCards",
+          "items": [
+            {
+              "word": { "zh": "啼鸟", "en": "bird singing" },
+              "pinyin": "tí niǎo",
+              "meaning": { "zh": "鸟儿叫声", "en": "bird singing" }
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "questions": [
+            {
+              "question": { "zh": "诗人是被什么声音吵醒的？", "en": "What sound woke the poet?" },
+              "options": [
+                { "text": { "zh": "风雨声", "en": "Wind and rain" }, "correct": false },
+                { "text": { "zh": "鸟叫声", "en": "Birdsong" }, "correct": true },
+                { "text": { "zh": "雷声", "en": "Thunder" }, "correct": false },
+                { "text": { "zh": "人声", "en": "Voices" }, "correct": false }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "aiExplanation",
+          "text": {
+            "zh": "春天来了！诗人睡得很香，直到听见小鸟叽叽喳喳地叫才醒来。他想起昨天晚上刮风下雨，担心美丽的花儿被风雨打落了。小朋友们，你们喜欢春天吗？",
+            "en": "Spring has come! The poet slept soundly until hearing birds chirping. He remembered the wind and rain last night and worried that the beautiful flowers were blown down. Do you like spring?"
+          }
+        }
+      ],
+      "description": {
+        "zh": "诗人描写春天早晨醒来时的感受，听到鸟儿啼叫，想起昨夜的风雨，担心花儿凋落。",
+        "en": "The poet describes waking up on a spring morning, hearing birds, recalling the wind and rain of the previous night, and worrying about fallen flowers."
+      }
+    },
+    {
+      "story_id": "3",
+      "title": { "zh": "静夜思", "en": "Quiet Night Thoughts" },
+      "author": { "zh": "李白", "en": "Li Bai" },
+      "category": ["唐诗"],
+      "language": "zh",
+      "modules": [
+        { "type": "reading", "text": { "zh": "床前明月光，疑是地上霜。举头望明月，低头思故乡。", "en": "Moonlight before my bed; I suspect it's frost on the ground. I raise my head to gaze at the bright moon, then lower it and think of home." } },
+        { "type": "wordCards", "items": [
+          { "word": { "zh": "明月", "en": "bright moon" }, "pinyin": "míng yuè", "meaning": { "zh": "明亮的月亮", "en": "bright moon" } },
+          { "word": { "zh": "故乡", "en": "hometown" }, "pinyin": "gù xiāng", "meaning": { "zh": "出生或长期居住的地方", "en": "place of one's origin" } }
+        ]},
+        { "type": "quiz", "questions": [
+          { "question": { "zh": "诗人看见什么想起了故乡？", "en": "What made the poet think of home?" }, "options": [
+            { "text": { "zh": "明月", "en": "moon" }, "correct": true },
+            { "text": { "zh": "星星", "en": "stars" }, "correct": false },
+            { "text": { "zh": "白云", "en": "clouds" }, "correct": false },
+            { "text": { "zh": "落叶", "en": "fallen leaves" }, "correct": false }
+          ] }
+        ]},
+        { "type": "aiExplanation", "text": { "zh": "诗人夜里看见明亮的月光，想起远方的家乡，表达了思乡之情。", "en": "At night under the bright moonlight, the poet feels homesick and thinks of his distant hometown." } }
+      ],
+      "description": { "zh": "表达思乡之情的名篇。", "en": "A famous poem expressing homesickness." }
+    },
+    {
+      "story_id": "4",
+      "title": { "zh": "登鹳雀楼", "en": "Climbing the Stork Tower" },
+      "author": { "zh": "王之涣", "en": "Wang Zhihuan" },
+      "category": ["唐诗"],
+      "language": "zh",
+      "modules": [
+        { "type": "reading", "text": { "zh": "白日依山尽，黄河入海流。欲穷千里目，更上一层楼。", "en": "The white sun sets behind the mountains, the Yellow River flows into the sea. To see a thousand miles farther, climb one more story." } },
+        { "type": "wordCards", "items": [
+          { "word": { "zh": "黄河", "en": "Yellow River" }, "pinyin": "huáng hé", "meaning": { "zh": "中国的母亲河", "en": "the Mother River of China" } }
+        ]},
+        { "type": "quiz", "questions": [
+          { "question": { "zh": "要看得更远需要做什么？", "en": "What should one do to see farther?" }, "options": [
+            { "text": { "zh": "更上一层楼", "en": "climb higher" }, "correct": true },
+            { "text": { "zh": "坐下休息", "en": "sit down" }, "correct": false },
+            { "text": { "zh": "关上窗户", "en": "close windows" }, "correct": false },
+            { "text": { "zh": "点亮灯", "en": "light a lamp" }, "correct": false }
+          ] }
+        ]},
+        { "type": "aiExplanation", "text": { "zh": "通过登高望远，鼓励人们追求更高目标。", "en": "Encourages pursuing higher goals by climbing higher to see farther." } }
+      ],
+      "description": { "zh": "借登楼抒发志向。", "en": "Expresses ambition via climbing a tower." }
+    },
+    {
+      "story_id": "5",
+      "title": { "zh": "草", "en": "Grasses" },
+      "author": { "zh": "白居易", "en": "Bai Juyi" },
+      "category": ["唐诗"],
+      "language": "zh",
+      "modules": [
+        { "type": "reading", "text": { "zh": "野火烧不尽，春风吹又生。", "en": "Wildfire cannot burn them out; in spring breeze they grow again." } },
+        { "type": "wordCards", "items": [
+          { "word": { "zh": "野火", "en": "wildfire" }, "pinyin": "yě huǒ", "meaning": { "zh": "野外的火", "en": "fire in the wild" } },
+          { "word": { "zh": "春风", "en": "spring breeze" }, "pinyin": "chūn fēng", "meaning": { "zh": "春天的风", "en": "wind in spring" } }
+        ]},
+        { "type": "quiz", "questions": [
+          { "question": { "zh": "哪种力量让草重新生长？", "en": "Which power makes grass grow again?" }, "options": [
+            { "text": { "zh": "春风", "en": "spring breeze" }, "correct": true },
+            { "text": { "zh": "大雨", "en": "heavy rain" }, "correct": false },
+            { "text": { "zh": "雷电", "en": "thunder" }, "correct": false },
+            { "text": { "zh": "冰雪", "en": "snow" }, "correct": false }
+          ] }
+        ]},
+        { "type": "aiExplanation", "text": { "zh": "表现生命力顽强与希望重生的主题。", "en": "Shows resilient vitality and hope of rebirth." } }
+      ],
+      "description": { "zh": "赞美草的生命力。", "en": "Praises the vitality of grass." }
+    },
+    {
+      "story_id": "6",
+      "title": { "zh": "悯农", "en": "Sympathy for Farmers" },
+      "author": { "zh": "李绅", "en": "Li Shen" },
+      "category": ["唐诗"],
+      "language": "zh",
+      "modules": [
+        { "type": "reading", "text": { "zh": "锄禾日当午，汗滴禾下土。谁知盘中餐，粒粒皆辛苦。", "en": "At noon they hoe the crops, sweat drips into soil; who knows each grain on the plate comes from hard toil." } },
+        { "type": "wordCards", "items": [
+          { "word": { "zh": "盘中餐", "en": "meal in the bowl" }, "pinyin": "pán zhōng cān", "meaning": { "zh": "碗里的饭菜", "en": "food in the bowl" } }
+        ]},
+        { "type": "quiz", "questions": [
+          { "question": { "zh": "诗人提醒我们对什么心怀感恩？", "en": "What does the poet remind us to be grateful for?" }, "options": [
+            { "text": { "zh": "每一粒粮食", "en": "every grain of food" }, "correct": true },
+            { "text": { "zh": "华丽衣服", "en": "fancy clothes" }, "correct": false },
+            { "text": { "zh": "美丽花朵", "en": "beautiful flowers" }, "correct": false },
+            { "text": { "zh": "清澈河流", "en": "clear rivers" }, "correct": false }
+          ] }
+        ]},
+        { "type": "aiExplanation", "text": { "zh": "告诉我们每粒粮食都来之不易，要珍惜。", "en": "It tells us each grain of food is hard-earned and should be cherished." } }
+      ],
+      "description": { "zh": "教育孩子珍惜粮食。", "en": "Teaches children to cherish food." }
+    },
+    {
+      "story_id": "7",
+      "title": { "zh": "游子吟", "en": "Song of the Wanderer" },
+      "author": { "zh": "孟郊", "en": "Meng Jiao" },
+      "category": ["唐诗"],
+      "language": "zh",
+      "modules": [
+        { "type": "reading", "text": { "zh": "慈母手中线，游子身上衣。临行密密缝，意恐迟迟归。", "en": "In mother's hand the thread, on wanderer's body the clothes. Before departure she stitches tight, fearing his late return." } },
+        { "type": "wordCards", "items": [
+          { "word": { "zh": "游子", "en": "wanderer" }, "pinyin": "yóu zǐ", "meaning": { "zh": "远行的人", "en": "one who travels afar" } }
+        ]},
+        { "type": "quiz", "questions": [
+          { "question": { "zh": "母亲为什么密密缝衣？", "en": "Why does the mother stitch tightly?" }, "options": [
+            { "text": { "zh": "担心儿子很久不回家", "en": "she fears her son returns late" }, "correct": true },
+            { "text": { "zh": "为了好看", "en": "for beauty" }, "correct": false },
+            { "text": { "zh": "为了参加比赛", "en": "for a contest" }, "correct": false },
+            { "text": { "zh": "为了保暖", "en": "for warmth" }, "correct": false }
+          ] }
+        ]},
+        { "type": "aiExplanation", "text": { "zh": "表达母爱与牵挂。", "en": "Expresses a mother's love and concern." } }
+      ],
+      "description": { "zh": "赞颂母爱。", "en": "Praises maternal love." }
+    },
+    {
+      "story_id": "8",
+      "title": { "zh": "春夜喜雨", "en": "Happy Rain on a Spring Night" },
+      "author": { "zh": "杜甫", "en": "Du Fu" },
+      "category": ["唐诗"],
+      "language": "zh",
+      "modules": [
+        { "type": "reading", "text": { "zh": "好雨知时节，当春乃发生。随风潜入夜，润物细无声。", "en": "Good rain knows its season, it falls in spring. With wind it sneaks into the night, moistening things silently." } },
+        { "type": "wordCards", "items": [
+          { "word": { "zh": "润物无声", "en": "moistening silently" }, "pinyin": "rùn wù wú shēng", "meaning": { "zh": "悄悄地滋润万物", "en": "silently nourish all things" } }
+        ]},
+        { "type": "quiz", "questions": [
+          { "question": { "zh": "春雨的特点是什么？", "en": "What is the feature of the spring rain?" }, "options": [
+            { "text": { "zh": "细无声", "en": "gentle and silent" }, "correct": true },
+            { "text": { "zh": "轰轰烈烈", "en": "loud and fierce" }, "correct": false },
+            { "text": { "zh": "冰冷刺骨", "en": "cold and biting" }, "correct": false },
+            { "text": { "zh": "五颜六色", "en": "colorful" }, "correct": false }
+          ] }
+        ]},
+        { "type": "aiExplanation", "text": { "zh": "赞美及时的春雨滋润万物。", "en": "Praises timely spring rain that nourishes all things." } }
+      ],
+      "description": { "zh": "描绘春夜喜雨的美好。", "en": "Depicts the beauty of spring rain at night." }
+    },
+    {
+      "story_id": "9",
+      "title": { "zh": "望庐山瀑布", "en": "Viewing the Lushan Waterfall" },
+      "author": { "zh": "李白", "en": "Li Bai" },
+      "category": ["唐诗"],
+      "language": "zh",
+      "modules": [
+        { "type": "reading", "text": { "zh": "飞流直下三千尺，疑是银河落九天。", "en": "A waterfall plunges straight down three thousand feet, as if the Milky Way fell from the ninth heaven." } },
+        { "type": "wordCards", "items": [
+          { "word": { "zh": "银河", "en": "Milky Way" }, "pinyin": "yín hé", "meaning": { "zh": "星河", "en": "galaxy" } }
+        ]},
+        { "type": "quiz", "questions": [
+          { "question": { "zh": "诗人把瀑布比作什么？", "en": "What does the poet compare the waterfall to?" }, "options": [
+            { "text": { "zh": "银河", "en": "Milky Way" }, "correct": true },
+            { "text": { "zh": "江河", "en": "river" }, "correct": false },
+            { "text": { "zh": "雨幕", "en": "curtain of rain" }, "correct": false },
+            { "text": { "zh": "白云", "en": "white cloud" }, "correct": false }
+          ] }
+        ]},
+        { "type": "aiExplanation", "text": { "zh": "用夸张手法描写瀑布的壮观。", "en": "Uses hyperbole to describe the waterfall's grandeur." } }
+      ],
+      "description": { "zh": "描写庐山瀑布壮丽景色。", "en": "Describes the magnificent scenery of Lushan waterfall." }
+    },
+    {
+      "story_id": "10",
+      "title": { "zh": "黄鹤楼送孟浩然之广陵", "en": "Seeing Meng Haoran off at Yellow Crane Tower" },
+      "author": { "zh": "李白", "en": "Li Bai" },
+      "category": ["唐诗"],
+      "language": "zh",
+      "modules": [
+        { "type": "reading", "text": { "zh": "故人西辞黄鹤楼，烟花三月下扬州。", "en": "My old friend bids farewell at Yellow Crane Tower, in misty March he goes down to Yangzhou." } },
+        { "type": "wordCards", "items": [
+          { "word": { "zh": "故人", "en": "old friend" }, "pinyin": "gù rén", "meaning": { "zh": "老朋友", "en": "old companion" } }
+        ]},
+        { "type": "quiz", "questions": [
+          { "question": { "zh": "孟浩然要去哪里？", "en": "Where is Meng Haoran going?" }, "options": [
+            { "text": { "zh": "扬州", "en": "Yangzhou" }, "correct": true },
+            { "text": { "zh": "广州", "en": "Guangzhou" }, "correct": false },
+            { "text": { "zh": "杭州", "en": "Hangzhou" }, "correct": false },
+            { "text": { "zh": "成都", "en": "Chengdu" }, "correct": false }
+          ] }
+        ]},
+        { "type": "aiExplanation", "text": { "zh": "送别朋友的诗，充满留恋与祝福。", "en": "A farewell poem for a friend, full of longing and blessing." } }
+      ],
+      "description": { "zh": "抒发送别之情。", "en": "Expresses feelings of farewell." }
     }
   ]
 }
